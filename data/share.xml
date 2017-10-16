@@ -1,0 +1,10 @@
+<sites logoWidth="200" logoHeight="40">
+	<site logoUrl="content/images/iconFacebook.png" name="Facebook" href="http://www.facebook.com/share.php?u=" />
+	<site logoUrl="content/images/iconTwitter.png" name="Twitter" href="http://twitter.com/?status=" />
+        <site logoUrl="content/images/iconLinkedin.png" name="Linkedin" href="https://www.linkedin.com/cws/share?url=" />
+        <site logoUrl="content/images/iconGooglePlus.png" name="Google+" href="https://plus.google.com/share?url=" />
+	<site logoUrl="content/images/iconMyspace.png" name="Myspace" href="http://www.myspace.com/Modules/PostTo/Pages/?u=" />
+	<site logoUrl="content/images/iconGoogle.png" name="Google" href="https://www.google.com/bookmarks/mark?op=add&title=ThisisTitle&labels=ePublication&bkmk=" />
+	<site logoUrl="content/images/iconDelicious.png" name="Del.icio.us" href="http://del.icio.us/post?title=ThisisTitle&url=" />
+	<site logoUrl="content/images/iconDigg.png" name="Digg" href="http://digg.com/submit?url=" />
+</sites>

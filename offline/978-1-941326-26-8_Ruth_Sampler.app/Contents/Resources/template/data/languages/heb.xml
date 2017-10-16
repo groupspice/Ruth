@@ -1,0 +1,115 @@
+﻿<lang>
+<item key="Help" value="עזרה" />
+<item key="MoreInfo" value="נוסף מידע" />
+<item key="FlipToFront" value="השער לעמוד" />
+<item key="FlipLeft" value="הבא עמוד" />
+<item key="GotoPage" value="לעמוד לך" />
+<item key="FlipRight" value="קודם עמוד" />
+<item key="FlipToBack" value="אחורי לשער" />
+<item key="ZoomIn" value="הגדל" />
+<item key="ZoomOut" value="הקטן" />
+<item key="AutoFlip" value="אוטומטי דפדוף" />
+<item key="Search" value="חיפוש" />
+<item key="Bookmark" value="סימנייה" />
+<item key="Notes" value="הערות" />
+<item key="HighlightOn" value="מופעלת הארה" />
+<item key="HighlightOff" value="כבויה הארה" />
+<item key="ExitFullScreen" value="מלא ממסך צא" />
+<item key="FullScreen" value="מלא מסך" />
+<item key="PreviousIssues" value="קודמים נושאים" />
+<item key="ExpandCollapseAll" value="הכל צמצם/הרחב" />
+<item key="TableOfContents" value="עניינים תוכן" />
+<item key="ThumbnailView" value="מוקטנות תמונות מבט" />
+<item key="ShareThisFlipBook" value="זה קטלוג שתף" />
+<item key="ShareOnSocialNetwork" value="חברתיות ברשתות שתף" />
+<item key="PrintLeftPage" value="שמאלי דף הדפס" />
+<item key="PrintRightPage" value="ימני דף הדפס" />
+<item key="PrintBothPages" value="הדפים שני את הדפס" />
+<item key="PrintSelectedPages" value="שנבחרו דפים הדפס" />
+<item key="Print" value="הדפס" />
+<item key="SaveAsPDF" value="PDF-כ שמור" />
+<item key="SaveLeftPage" value="שמאלי דף שמור" />
+<item key="SaveRightPage" value="ימני דף שמור" />
+<item key="Save" value="שמור" />
+<item key="Download" value="הורד" />
+<item key="DownloadZip" value= "קובץ הורד ZIP" />
+<item key="DownloadExe" value="קובץ הורד EXE" />
+<item key="EnableAudio" value="שמע הפעל" />
+<item key="EnableFlippingSound" value="דפדוף קול הפעל" />
+<item key="SelectLanguage" value="שפה בחר" />
+<item key="Close" value="סגור" />
+<item key="AboutUs" value="אודותינו" />
+<item key="BookTitle" value="הספר כותרת" />
+<item key="BookAuthor" value="הספר כותב" />
+<item key="CompanyName" value="החברה שם" />
+<item key="CompanyUrl" value="החברה לאתר קישור" />
+<item key="Settings" value="הגדרות" />
+<item key="YourName" value="שמך" />
+<item key="YourEmail" value="דואל" />
+<item key="Message" value="הודעה" />
+<item key="To" value="אל" />
+<item key="Send" value="שלח" />
+<item key="OK" value="אישור" />
+<item key="chs" value="מפושטת סינית"/>
+<item key="cht" value="מסורתית סינית" />
+<item key="eng" value="אנגלית" />
+<item key="fra" value="צרפתית" />
+<item key="eng" value="אנגלית" />
+<item key="fra" value="צרפתית" />
+<item key="ptg" value="פורטוגזית" />
+<item key="deu" value="גרמנית" />
+<item key="jpn" value="יפנית" />
+<item key="esn" value="ספרדית" />
+<item key="nld" value="שוודית" />
+<item key="rus" value="רוסית" />
+<item key="arb" value="ערבית" />
+<item key="heb" value="עברית" />
+<item key="sve" value="שוודית" />
+<item key="den" value="דני" />
+<item key="hun" value="הונגרי" />
+<item key="tur" value="תורכי" />
+<item key="gre" value="יווני" />
+<item key="Bookmarks" value="סימניות" />
+<item key="RemoveAll" value="הכל הסר" />
+<item key="AddLeftBookmark" value="שמאלית סימנייה הוסף" />
+<item key="AddRightBookmark" value="ימנית סימנייה הוסף" />
+<item key="Page" value="עמוד" />
+<item key="Restore" value="שחזר" />
+<item key="Minimize" value="מזער" />
+<item key="Delete" value="מחק" />
+<item key="DeleteNoteConfirm" value="למחוק שברצונך בטוח" />
+<item key="Yes" value="כן" />
+<item key="No" value="לא" />
+<item key="PageRange" value="עמודים טווח" />
+<item key="MatchCase" value="גדולות/קטנות אותיות התאם" />
+<item key="SearchResults" value="חיפוש תוצאות" />
+<item key="ErrorEmailAddress" value="שגויה דואל כתובת" />
+<item key="AutoMoveAfterZoom" value="מקרוב צפיה לאחר אוט' תזוזה" />
+<item key="EmptyInput" value="ערך ריק" />
+<item key="EmailSendSuccessful" value="בהצלחה נשלחה דואר הודעת" />
+<item key="ClickToFlip" value="לדפדוף הקלק" />
+<item key="ClickOrDragToZoom" value="מקרוב לצפייה גרור או הקלק" />
+<item key="Add" value="הוסף" />
+<item key="RemoveAll" value="הכל הסר" />
+<item key="CompanyAddress" value="כתובת" />
+<item key="CompanyEmail" value="דואל" />
+<item key="CompanyTel" value="טלפון" />
+<item key="SelectPagesFromThumbnails" value="מוקטנות תמונות מתוך עמודים בחר" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="פעם בכל עמ מ-15 יותר לא לבחור יש" />
+<item key="PagesBeingPrepared" value="דקות... מס לקחת עלול זה המתן נא . בתהליך להדפסה עמודים הכנת"/>
+<item key="Cancel" value="בטל" />
+<item key="ClickAddNote" value="הערה להוספת הדף על הקלק" />
+<item key="Edit" value="ערוך" />
+<item key="Clear" value="נקה" />
+<item key="DownloadEntirePdfFile" value="במלואו pdf ה קובץ את הורד" />
+<item key="BestViewInFullScreenMode" value="מלא מסך בתצוגת במיטבו נראה זה פרסום" />
+<item key="EnterFullScreen" value="מלא למסך לעבור?" />
+<item key="EscToExit" value="מקש על ללחוץ יש ESC מלא ממסך ליציאה" />
+<item key="NeedPassword" value="סיסמה להזין יש" />
+<item key="PasswordError" value="שגויה סיסמה" />
+<item key="Submit" value="שלח" />
+<item key="Reset" value="איפוס" />
+<item key="ShareEmailContent" value="כאן ללחוץ יש בקטלוג לצפייה . אותך לשתף ורוצה הקטלוג את אהב:" />
+<item key="ShareEmailTitle" value="דיגיטלי בקטלוג אותך לשתף מעוניין" />
+<item key="YourFriend" value="חברך " />
+</lang>

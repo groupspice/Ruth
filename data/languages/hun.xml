@@ -1,0 +1,122 @@
+﻿<lang>
+<item key="Help" value="Segítő tippek" />
+<item key="MoreInfo" value="További információk" />
+<item key="FlipToFront" value="Lapozás a borítóra" />
+<item key="FlipLeft" value="Balra lapozás" />
+<item key="GotoPage" value="Irány az oldalra" />
+<item key="FlipRight" value="Lapozás jobbra" />
+<item key="FlipToBack" value="Vissza a címoldalra" />
+<item key="ZoomIn" value="Zoom be" />
+<item key="ZoomOut" value="Zoom ki" />
+<item key="AutoFlip" value="Automatikus lapozás" />
+<item key="Search" value="Keresés" />
+<item key="Bookmark" value="Könyvjelző" />
+<item key="Notes" value="Feljegyzés" />
+<item key="HighlightOn" value="Kiemelés ki" />
+<item key="HighlightOff" value="Kiemelés be" />
+<item key="ExitFullScreen" value="Teljes képernyő ki" />
+<item key="FullScreen" value="Teljes képernyő be" />
+<item key="PreviousIssues" value="Előző eredmény" />
+<item key="ExpandCollapseAll" value="Teljes összeomlás" />
+<item key="TableOfContents" value="Tartalomjegyzék" />
+<item key="ThumbnailView" value="Bemutató kép" />
+<item key="ShareThisFlipBook" value="könyvelosztás" />
+<item key="ShareOnSocialNetwork" value="Szociális hálózati elosztás" />
+<item key="PrintLeftPage" value="Nyomtasd a bal oldalt" />
+<item key="PrintRightPage" value="Nyomtasd a jobb oldalt" />
+<item key="PrintBothPages" value="Nyomtasd mind a két oldalt" />
+<item key="PrintSelectedPages" value="Nyomtasd a kiválasztott oldalt" />
+<item key="Print" value="Nyomtat" />
+<item key="SaveAsPDF" value="Mentés PDF-ben" />
+<item key="SaveLeftPage" value="Bal oldal mentése" />
+<item key="SaveRightPage" value="Jobb oldal mentése" />
+<item key="Save" value="Mentés" />
+<item key="Download" value="Letöltés" />
+<item key="DownloadZip" value="Offline letöltés ZIP formátuban" />
+<item key="DownloadExe" value="Offline letöltés EXE formátumban" />
+<item key="EnableAudio" value="Elérhető hang" />
+<item key="EnableFlippingSound" value="Elérhető fordított hang" />
+<item key="SelectLanguage" value="Nyelvválasztás" />
+<item key="Close" value="Bezár" />
+<item key="AboutUs" value="Rólunk" />
+<item key="BookTitle" value="A könyv címe" />
+<item key="BookAuthor" value="A könyv szerője" />
+<item key="CompanyName" value="A cég neve" />
+<item key="CompanyUrl" value="A cég internetes címe" />
+<item key="Settings" value="Frissítés" />
+<item key="YourName" value="Az Ön neve" />
+<item key="YourEmail" value="Az Ön e-mail címe" />
+<item key="Message" value="Üzenet" />
+<item key="To" value="Akinek küldi" />
+<item key="Send" value="Küldés" />
+<item key="OK" value="Rendben" />
+<item key="chs" value="Egyszerű kínai" />
+<item key="cht" value="Hagyományos kínai" />
+<item key="eng" value="Angol" />
+<item key="fra" value="Francia" />
+<item key="ptg" value="Portugál" />
+<item key="deu" value="Német" />
+<item key="jpn" value="Japán" />
+<item key="esn" value="Spanyol" />
+<item key="nld" value="Holland" />
+<item key="rus" value="Orosz" />
+<item key="arb" value="Arab" />
+<item key="kor" value="Koreai" />
+<item key="ita" value="Olasz" />
+<item key="nor" value="Norvég" />
+<item key="heb" value="Héber" />
+<item key="sve" value="Svéd" />
+<item key="den" value="Dán" />
+<item key="hun" value="Magyar" />
+<item key="tur" value="​​Török" />
+<item key="gre" value="Görög" />
+<item key="Bookmarks" value="Könyvjelző" />
+<item key="RemoveAll" value="Mindent visszavon" />
+<item key="AddLeftBookmark" value="A bal oldali könyvjelző hozzáadása" />
+<item key="AddRightBookmark" value="A jobb oldali könyvjelző hozzáadása" />
+<item key="Page" value="Oldal" />
+<item key="Restore" value="Visszaállítás" />
+<item key="Minimize" value="Minimalizálás" />
+<item key="Delete" value="Törlés" />
+<item key="DeleteNoteConfirm" value="Törli ezt a feljegyzést?" />
+<item key="Yes" value="Igen" />
+<item key="No" value="Nem" />
+<item key="PageRange" value="Oldal bedorolás" />
+<item key="MatchCase" value="Fiók találat" />
+<item key="SearchResults" value="Eredmény keresés" />
+<item key="ErrorEmailAddress" value="Hibás e-mail cím" />
+<item key="AutoMoveAfterZoom" value="Automatikus továbbítás a zoom után" />
+<item key="EmptyInput" value="Üres beérkezés" />
+<item key="EmailSendSuccessful" value="E-mail sikeresen elküldve" />
+<item key="ClickToFlip" value="Clikk az előre ugráshoz" />
+<item key="ClickOrDragToZoom" value="Clikk vagy áthúzás a zoomhoz" />
+<item key="Add" value="Hozzáad" />
+<item key="RemoveAll" value="Mindent visszavon" />
+<item key="CompanyAddress" value="Cím" />
+<item key="CompanyEmail" value="E-mail" />
+<item key="CompanyTel" value="Tel" />
+<item key="SelectPagesFromThumbnails" value="Válassz egy oldalt a mintákból" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Kérem, ne válasszon egyszerre többet mint 15 oldal" />
+<item key="PagesBeingPrepared" value="Az oldal előkészítésre a nyomtatásra, ami néhány percet is igénybe vehet. Kérem türelmesen várjon…" />
+<item key="Cancel" value="Visszavonás" />
+<item key="ClickAddNote" value="Ugrás az oldalra a feljegyzés rögzítésére" />
+<item key="Edit" value="Szerkesztés" />
+<item key="Clear" value="Törlés" />
+<item key="DownloadEntirePdfFile" value="A teljes PDF fájl letöltése" />
+<item key="BestViewInFullScreenMode" value="Legjobb megjelenítés a teljes képernyős módban" />
+<item key="EnterFullScreen" value="Teljes képernyő nézet bekapcsolása" />
+<item key="EscToExit" value="Kattintson a ESC billentyűre a teljes képernyős mód kikapcsolásához." />
+<item key="NeedPassword" value="Belépési kód szükséges." />
+<item key="PasswordError" value="Érvénytelen belépési kód." />
+<item key="Submit" value="Elfogadás" />
+<item key="Reset" value="Törlés" />
+<item key="ShareEmailContent" value=" A publikáció tetszett és továbbküldöm barátaimnak, ismerőseimnek. A cikk olvasásához klikk ide:" />
+<item key="ShareEmailTitle" value=" A cikk továbbküldése" />
+<item key="YourFriend" value="A barátaid " />
+<item key="PrintCurrentPage" value="Az aktuális oldal nyomtatása" />
+<item key="Back" value="Vissza" />
+<item key="Forward" value="Előre" />
+<item key="FullText" value="Teljes szöveg" />
+<item key="SearchPreviousIssues" value="Az előző cikk keresése" />
+<item key="SaveBothPages" value="A két oldal együttes mentése" />
+</lang>

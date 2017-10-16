@@ -1,0 +1,122 @@
+﻿<lang>
+<item key="Help" value="Tips og hjælp" />
+<item key="MoreInfo" value="Mere information" />
+<item key="FlipToFront" value="Gå til forsiden" />
+<item key="FlipLeft" value="Bladre til venstre" />
+<item key="GotoPage" value="Gå til side" />
+<item key="FlipRight" value="Bladre til højre" />
+<item key="FlipToBack" value="Gå til bagsiden" />
+<item key="ZoomIn" value="Zoome ind" />
+<item key="ZoomOut" value="Zoome ud" />
+<item key="AutoFlip" value="Auto bladre" />
+<item key="Search" value="Søg" />
+<item key="Bookmark" value="Bogmærke" />
+<item key="Notes" value="Noter" />
+<item key="HighlightOn" value="Slå fremhæv fra" />
+<item key="HighlightOff" value="Slå fremhæv til" />
+<item key="ExitFullScreen" value="Forlad fuld skærm" />
+<item key="FullScreen" value="Fuld skærm" />
+<item key="PreviousIssues" value="Tidligere udgivelser" />
+<item key="ExpandCollapseAll" value="Udvid/Minimer menuer" />
+<item key="TableOfContents" value="Indholdsfortegnelse" />
+<item key="ThumbnailView" value="Vis thumbnails" />
+<item key="ShareThisFlipBook" value="Del denne bog" />
+<item key="ShareOnSocialNetwork" value="Del via socialt netværk" />
+<item key="PrintLeftPage" value="Print venstre side" />
+<item key="PrintRightPage" value="Print højre side" />
+<item key="PrintBothPages" value="Print begge sider" />
+<item key="PrintSelectedPages" value="Print valgte sider" />
+<item key="Print" value="Print" />
+<item key="SaveAsPDF" value="Gem som PDF" />
+<item key="SaveLeftPage" value="Gem venstre side" />
+<item key="SaveRightPage" value="Gem højre side" />
+<item key="Save" value="Gem" />
+<item key="Download" value="Download" />
+<item key="DownloadZip" value="Hent offline version i ZIP format" />
+<item key="DownloadExe" value="Hent offline version i EXE format" />
+<item key="EnableAudio" value="Aktiver lyd" />
+<item key="EnableFlippingSound" value="Aktiver bladre lyd" />
+<item key="SelectLanguage" value="Vælg sprog" />
+<item key="Close" value="Luk" />
+<item key="AboutUs" value="Om os" />
+<item key="BookTitle" value="Bog titel" />
+<item key="BookAuthor" value="Forfatter" />
+<item key="CompanyName" value="Virksomhedens navn" />
+<item key="CompanyUrl" value="Virksomhedens Url" />
+<item key="Settings" value="Indstillinger" />
+<item key="YourName" value="Navn" />
+<item key="YourEmail" value="Email adresse" />
+<item key="Message" value="Besked" />
+<item key="To" value="Til" />
+<item key="Send" value="Send" />
+<item key="OK" value="OK" />
+<item key="chs" value="Simplified Chinese" />
+<item key="cht" value="Traditional Chinese" />
+<item key="eng" value="English" />
+<item key="fra" value="French" />
+<item key="ptg" value="Portuguese" />
+<item key="deu" value="German" />
+<item key="jpn" value="Japanese" />
+<item key="esn" value="Spanish" />
+<item key="nld" value="Dutch" />
+<item key="rus" value="Russian" />
+<item key="arb" value="Arabic" />
+<item key="kor" value="Korean" />
+<item key="ita" value="Italian" />
+<item key="nor" value="Norwegian" />
+<item key="heb" value="Hebrew" />
+<item key="sve" value="Swedish" />
+<item key="den" value="Danish" />
+<item key="hun" value="Hungarian" />
+<item key="tur" value="Tyrkisk" />
+<item key="gre" value="Greek" />
+<item key="Bookmarks" value="Bogmærker" />
+<item key="RemoveAll" value="Fjern alle" />
+<item key="AddLeftBookmark" value="Tilføj bogmærke i venstre" />
+<item key="AddRightBookmark" value="Tilføj bogmærke i højre" />
+<item key="Page" value="Side" />
+<item key="Restore" value="Genopret" />
+<item key="Minimize" value="Minimer" />
+<item key="Delete" value="Slet" />
+<item key="DeleteNoteConfirm" value="Slet denne note?" />
+<item key="Yes" value="Ja" />
+<item key="No" value="Nej" />
+<item key="PageRange" value="Side interval" />
+<item key="MatchCase" value="Match store og små bogstaver" />
+<item key="SearchResults" value="Søgeresultat" />
+<item key="ErrorEmailAddress" value="Invalid Email adresse" />
+<item key="AutoMoveAfterZoom" value="Flyt automatisk efter Zoom" />
+<item key="EmptyInput" value="Slet Input" />
+<item key="EmailSendSuccessful" value="Email Sendt" />
+<item key="ClickToFlip" value="Klik for at bladre" />
+<item key="ClickOrDragToZoom" value="Klik eller træk for at Zoome" />
+<item key="Add" value="Tilføj" />
+<item key="RemoveAll" value="Slet alle" />
+<item key="CompanyAddress" value="Adresse" />
+<item key="CompanyEmail" value="Email" />
+<item key="CompanyTel" value="Telefon" />
+<item key="SelectPagesFromThumbnails" value="Vælg sider fra thumbnails" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Vælg maksimalt 15 sider ad gangen." />
+<item key="PagesBeingPrepared" value="Siderne forberedes til print. Dette kan tage et få minutter. Vent venligst ..." />
+<item key="Cancel" value="Fortryd" />
+<item key="ClickAddNote" value="Klik på siden for at tilføje en note" />
+<item key="Edit" value="Redigér" />
+<item key="Clear" value="Slet" />
+<item key="DownloadEntirePdfFile" value="Hent hele PDF filen" />
+<item key="BestViewInFullScreenMode" value="Denne bog vises bedst i fuld skærm" />
+<item key="EnterFullScreen" value="Gå til fuld skærm?" />
+<item key="EscToExit" value="Tryk på Esc knappen for at forlade fuld skærm" />
+<item key="NeedPassword" value="Indtast venligst adgangskoden herunder." />
+<item key="PasswordError" value="Forkert adgangskode." />
+<item key="Submit" value="Send" />
+<item key="Reset" value="Nulstil" />
+<item key="ShareEmailContent" value=" syntes om følgende online publikation og vil gerne dele den med dig. For at læse publikationen, klik her: " />
+<item key="ShareEmailTitle" value=" ønsker at dele en online publikation med dig" />
+<item key="YourFriend" value="Din ven " />
+<item key="PrintCurrentPage" value="Print aktuel side" />
+<item key="Back" value="Tilbage" />
+<item key="Forward" value="Videresend" />
+<item key="FullText" value="Fuld tekst" />
+<item key="SearchPreviousIssues" value="Søg i tidligere udgaver" />
+<item key="SaveBothPages" value="Deltag Begge sider" />
+</lang>

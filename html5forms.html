@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	
+	<style type="text/css" media="screen"> 
+		html, body	{ height:100%; }
+		body {margin:0; padding:0; overflow:auto;  }
+		ul{list-style-type: none;margin:0px;padding-left:20px; }
+		ul li{height:20px;}
+		ul li span {color:blue;overflow: hidden;text-overflow: ellipsis;white-space:nowrap;display:block;width: 100%}
+		img {border:0;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);-webkit-user-select: none;}
+		.static {position:static;}
+		.relative {position:relative; left:auto;top:auto;bottom:auto;right:auto;}
+		#loading {position:absolute;left:0px;top:0px;width:100px;height:100px;}
+		#cvsBook{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		#cvsButton{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; }
+		#zoom{-ms-touch-action: pinch-zoom;position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#mainAdhtml{ position:absolute;display:none;  overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;z-index:100; text-align:left;vertical-align:middle}
+		
+		.bookleftpage{ position:absolute;left:0px;top:0px; display:none;  overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		.bookrightpage{ position:absolute;left:0px;top:0px;display:none; overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		.leftPageLock{ position:absolute;left:0px;top:0px;display:none; overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		.rightPageLock{ position:absolute;left:0px;top:0px; display:none;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		
+		.buttonsLayer{ position:absolute;left:0px;top:0px;width:100%;height:100%;  overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#mask{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#maskop{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;background: #ff00ff;opacity: 0;}
+
+
+		#maskPopup { position:absolute;left:0px;top:0px;width:100%;height:100%; background-color:#CCCCCC; opacity:0.5; display:none;}
+		#cvsOthers,#cvsYoutube { position:absolute;left:0px;top:0px;}
+		#cvsVideo {position:absolute;left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#cvsSlideshow {position:absolute;left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+
+		#cvsTest {position:absolute;width:100%;z-index: 9999999999;height:100%;background: #0000ff; opacity: 0; left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+
+		#tz { position:absolute;bottom:0px;width:100%;height:40px;
+				align:center;background: blue;opacity: 0}
+
+
+		#topMenuBar { top:0px;width:100%;height:40px;
+				align:center;}
+		#topMenuBarBg { width:100%;height:40px;
+				align:center;background-color:#5c5c5c;}
+
+		#topTable{height:100%;}
+		#topTable img {margin-left:25px;}
+
+
+		#bottomBar { left:0px;position:absolute;bottom:0px;width:100%;height:49px;z-index: 999999;
+				align:center;}
+		#bottomBarBg {left:0px;position:absolute; width:100%;height:49px;align:center;background:#5c5c5c;}
+
+
+		#bottomTable{height:100%}
+		#tbPage{width:35px;}
+		#bottomTable img {margin-left:25px;}
+		#tbPageCount {color:#ffffff;}
+		#topBar,.topBarDefault {position:absolute; top:0px;display:none;background:#cccccc;
+			margin-right: auto; margin-left: auto; width:500px;
+			border:1px solid #666666;-webkit-border-radius: 5px; padding-bottom:45px;z-index: 100000;
+		}
+		#topBar #close{	position:absolute; top:2px; right:5px;}
+		#topBarTitle {position:absolute;top:0px;width:100%;height:30px;background-color:888888;text-align:left;}
+		#topBarContent {position:absolute; padding-left:10px;padding-right:10px; top:35px;
+						text-align:left;overflow:auto; height:280px;width:96%;display: block;}
+		#topFullTextContent {text-align:left;overflow:auto;top:35px;position:absolute; padding-left:10px;padding-right:10px;background: #ffffff}
+		#topTitle {position:absolute;top:5px;left:5px;}
+		.thumb {max-width:80px;max-height:78px;margin:8px;}
+		.bookmark {}
+		#searchBox { padding-left:5px;};
+		.colPage {width:50px;}
+		.colContent {}
+		.searchResults { padding:20px; font-size:12; color:#333333; }
+		.searchResults td {font-size:12;color:#333333;vertical-align:top;};
+
+		p{margin:0 0; display: inline-block;vertical-align: middle;line-height: 32px;width: 500px; float: left;}
+		p.p1{padding:  0 0 0 0;margin:0 0; width: 50px;float: left;color: red; height: 35px; line-height: 35px}
+		p.p2{padding:  0 0 0 15px;margin:0 0; width: 300px;float:left;text-decoration: underline;height: 35px; line-height: 35px}
+		#op textarea{ width:100%; height: 50px;}
+		.bookmarkrow{border-bottom:  1px dashed #ffffff; margin: 15px 0px; height: 35px}
+
+		button{height: 35px;}
+
+		#inputBox p{
+			margin: 20px 30px;
+		}
+
+		#tbKeyword{
+			margin: 10px 30px;
+		}
+
+		.slides {
+
+			margin: 45px 0 0;
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+			padding: 1%;
+
+		}
+
+
+		/* Animation */
+
+		.slides .inner {
+			-webkit-transform: translateZ(0);
+			-webkit-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+			-moz-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		    -ms-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		     -o-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		        transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); /* easeInOutQuart */
+
+			-webkit-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+			-moz-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		    -ms-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		     -o-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		        transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); /* easeInOutQuart */
+		}
+
+
+		article img {
+			width: 100%;
+			
+		}
+
+
+		.slides .inner {
+			
+			line-height: 0;
+
+		}
+
+		.slides article {
+			
+			float: left;
+		}
+
+		.email td {
+				width:145px;
+			}
+			
+		td input, textarea{
+			
+			width: 310px;
+		}
+
+		#snsbox p{
+			padding:  0px 5px;
+		}
+
+		#mainAdInner{ position:absolute;
+			vertical-align:middle;margin:auto;
+		}
+
+	</style>
+
+	<script src="spin.min.js"></script>
+    <script src="customFunction.js"></script>
+
+
+	<script type="text/javascript">
+		
+		var c_width = 0;
+		var c_height = 0;
+		function showSpinner(){
+			var opts = {
+			      lines: 16, 
+			      length: 15, 
+			      width: 5, 
+			      radius: 18, 
+			      color: '#ffffff', 
+			      speed: 1, 
+			      trail: 100, 
+			      shadow: true
+	    	};
+			var target = document.getElementById('loading');
+			var spinner = new Spinner(opts).spin(target);
+
+			c_width = document.body.clientWidth ;
+			c_height = document.body.clientHeight ;
+
+			window.onresize = orientationChange;
+		}
+
+
+
+	</script>
+
+	
+	<script>
+
+		function orientationChange(){
+			if (c_width == document.body.clientHeight && c_height == document.body.clientWidth) {
+				updateOrientation();
+			}
+		}
+        function isNUM(e)
+        {
+            var iKeyCode = e.keyCode;
+            if(!(((iKeyCode >= 48) && (iKeyCode <= 57)) || (iKeyCode == 13) || (iKeyCode == 46) || (iKeyCode == 45) || (iKeyCode == 37) || (iKeyCode == 39) || (iKeyCode == 8)))
+            {   
+				return false;
+            }
+			else
+			{
+				if(iKeyCode == 13)
+				{
+					RunTime.getInputAndJumpToPage();
+				}
+				return true;
+			}
+        } 
+		
+		function onSearchInputKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				search();
+			}
+		}
+		
+		function onInputKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				inputPwd();
+			}
+		}
+		
+		function updateOrientation()
+		{
+			RunTime.saveCurrentPageNum();
+			RunTime.reload();
+		}
+		
+		function gotoPage(val)
+		{
+			RunTime.flipBook.turnToPage(val);
+			hideTopBar();
+		}
+		
+		function hideTopBar()
+		{
+			RunTime.flipBook.hideTopBar();
+		}
+		
+		function search()
+		{
+			RunTime.flipBook.search();
+		}
+		
+		function inputPwd()
+		{
+			RunTime.flipBook.inputPwd();
+		}
+		
+		function clickInvoke(e)
+		{
+			alert("click");
+		}
+		
+		function onDoubleClick(e)
+		{
+			alert("dblclick");
+		}
+		
+		function clearPopupContents()
+		{
+			//alert("clearPopupContents");
+			RunTime.clearPopupContents();
+		}
+		
+		function clearLeftBgAudio()
+		{
+			RunTime.clearLeftBgAudio();
+		}
+		
+		function clearRightBgAudio()
+		{
+			RunTime.clearRightBgAudio();
+		}
+
+		function closeNotePopup(){
+
+		}
+
+		function saveHighlightNote(){
+			RunTime.updateHighLightNote(document.getElementById("textNote").value);
+			clearPopupContents();
+		}
+
+		function deleteHighlightNote(){
+			RunTime.deleteHighLight();
+			clearPopupContents();
+		}
+
+
+		function saveNote(){
+			RunTime.updateNote(document.getElementById("textNote").value);
+			clearPopupContents();
+		}
+
+		function deleteNote(){
+			RunTime.deleteNote();
+			clearPopupContents();
+		}
+
+		function addBookmark(val){
+
+			RunTime.flipBook.addBookmark(val,document.getElementById("bookmarknote").value);
+
+		}
+
+		function removeBookmark(val){
+			RunTime.flipBook.removeBookmark(val);
+		}
+
+		function InputUnlock(){
+			RunTime.InputUnlock();
+		}
+
+		function unlockPage(){
+			RunTime.flipBook.unlockPage();
+		}
+
+		function onUnlockKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				unlockPage();
+			}
+		}
+
+		
+	</script>
+</head>
+<body onload="showSpinner();" scroll="no" style="overflow:hidden" onorientationchange="updateOrientation()" onselectstart="return false">
+
+
+	
+	<div id="zoom"  >
+		
+		<canvas id="cvsBook" class="canvasBook"  width="1" height="1" onselectstart="return false">this browser does not support canvas…</canvas>
+		<div id="mainAdhtml">
+			<a id="mainAdInner">
+				<img id="mainAdimg" style="width:0px" />
+			</a>
+		</div>
+		<img id='leftpage' class="bookleftpage" src=''/>
+		<img id='rightpage' class="bookrightpage" src=''/>
+		<canvas id="cvsButton" class="canvasBook"  width="1" height="1" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas  style=" position:absolute; " id="cvsHighLight" width="1" height="1" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas  style=" position:absolute; " id="cvsNote" width="1" height="1" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas  style=" position:absolute; " id="cvsBookmark" width="1" height="1" onselectstart="return false">this browser does not support canvas…</canvas>
+
+
+		<div id="mask">
+			<div id="maskop"></div>
+			<div id="leftPageLock" class ="leftPageLock" >
+				<img id ="leftLockIcon" src="content/images/iconLock.png" style="position:absolute;" onclick="InputUnlock()" >
+			</div>
+			<div id="rightPageLock" class ="rightPageLock" >
+				<img id ="rightLockIcon" src="content/images/iconLock.png" 
+				style="position:absolute;" onclick="InputUnlock()" >
+			</div>
+		</div>
+
+		
+		<div id="cvsLeftPageBgAudio"></div>
+		<div id="cvsRightPageBgAudio"></div>
+		<div id="cvsSlideshow"></div>
+
+		<div id="cvsVideo" ></div>
+
+	</div>
+	
+	<div id="maskPopup"></div>
+	<div id="cvsOthers"></div>
+	<div id="cvsAudio"></div>
+	
+
+	<div id="hiddenSearch" style="display:none">
+		<div id="searchBox">
+		<input id="tbKeyword"  onkeypress="return onSearchInputKeyPress(event)" />
+		<input id="btnSearch" type="button" value="$Search" onclick="search();" />
+		<div class="searchResults">			
+		</div>
+		</div>
+	</div>
+	<div id="hiddenInput" style="display:none;">
+		<div id="inputBox" style="width:300px; height:120px;">
+		<p>Please input password below:</p>
+		<input id="tbKeyword" type="password" style="width:120px;height:20px;"  onkeypress="return onInputKeyPress(event)" />
+		<input type="button" style="height:20px;" value="Submit" onclick="inputPwd();" />
+		</div>
+	</div>
+
+	<div id="loading" style="vertical-align:middle;dispaly:none;">
+	</div>
+
+	<div id="loadingLogo" style="vertical-align:middle;dispaly:none;position:absolute">
+	</div>
+
+	<!--
+	<div id="cvsYoutube">
+	<iframe frameborder="0" type="text/html" height="390" width="640" src="http://www.youtube.com/embed/JW5meKfy3fY?controls=0&enablejsapi=1&origin=http://mysite.com"></iframe>
+	</div>
+	-->
+	<div id="topMenuBar">
+		<div id="topMenuBarBg" >
+		<table id="topTable" align="center" width="100%">
+			<tr valign="middle">
+				<td width="100%" align="center"  id="menuParent">
+					<img id="btnContents" src="content/images/btnContents.png" style="display:none" width="32" height="32" />
+					<img id="btnThumbs" src="content/images/btnThumbs.png" style="display:none" width="32" height="32" />
+					<img id="btnSearch" src="content/images/btnSearch.png" style="display:none" width="32" height="32" />
+					<img id="btnShowTxt" src="content/images/btnShowTxt.png" style="display:none" width="32" height="32" />
+					<img id="btnMask" src="content/images/btnMask.png" style="display:none" width="32" height="32" />
+					<img id="btnBookMark" src="content/images/btnBookMark.png" style="display:none" width="32" height="32" />
+					<img id="btnNote" src="content/images/btnNote.png" style="display:none" width="32" height="32" /> 
+					<img id="btnAutoFlip" src="content/images/btnAutoFlip.png" style="display:none" width="32" height="32" />
+					<img id="btnDownload" src="content/images/btnDownload.png" style="display:none" width="32" height="32" />
+					<img id="btnZoom" src="content/images/btnZoom.png" style="display:none" width="32" height="32" />
+					<img id="btnEmail" src="content/images/btnEmail.png" style="display:none" width="32" height="32" />
+					<img id="btnSns" src="content/images/btnSns.png" style="display:none" width="32" height="32" />
+				</td>
+
+			</tr>
+		</table>
+		</div>
+	</div>
+
+	<div id="topBar">
+		<div id="topBarTitle">
+			<span id="topTitle">Table of Contents:</span>
+			<img id="close" width="24" height="24" src="content/images/close.png"  onclick="hideTopBar();" />			
+		</div>
+		<div id="topBarContent"></div>
+		<div id="topFullTextContent"></div>
+	</div>
+
+	<div id="bottomBar">
+		<div id="bottomBarBg" />
+		<table id="bottomTable" align="center" width="100%">
+			<tr valign="middle">
+
+				<td width="100%" align="center" valign="bottom">
+					<img id="btnFirstPage" src="content/images/btnFirstPage.png" width="32" height="32" />
+					<img id="btnPrevPage" src="content/images/btnPrevPage.png" width="32" height="32" />
+					&nbsp;&nbsp;
+					<input id="tbPage" onkeypress="return isNUM(event)" style="bottom:11px;text-align:center;left:10px" class="relative"></input>&nbsp;&nbsp;<span id="tbPageCount" style="bottom:8px;left:10px" class="relative">/&nbsp;</span>&nbsp;
+					<img id="btnNextPage" src="content/images/btnNextPage.png" width="32" height="32" />
+					<img id="btnLastPage" src="content/images/btnLastPage.png" width="32" height="32" />
+				</td>
+				<td width="30%" style="padding-right:10px;" align="right">
+					<img id="imgLogo" height="24" style="display:none" />
+				</td>
+			</tr>
+		</table>
+
+	</div>
+
+
+	
+
+	<script src="html5ms.js"></script>
+	
+    
+</body>
+</html>

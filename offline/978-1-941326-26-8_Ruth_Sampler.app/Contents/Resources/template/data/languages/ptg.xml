@@ -1,0 +1,139 @@
+﻿<lang>
+<item key="Help" value="Ajuda" />
+<item key="MoreInfo" value="Informação" />
+<item key="FlipToFront" value="Início" />
+<item key="FlipLeft" value="Página anterior" />
+<item key="GotoPage" value="Ir para a página" />
+<item key="FlipRight" value="Página seguinte" />
+<item key="FlipToBack" value="Última página" />
+<item key="ZoomIn" value="Mais zoom" />
+<item key="ZoomOut" value="Menos zoom" />
+<item key="AutoFlip" value="Iniciar folheamento automático" />
+<item key="Search" value="Pesquisar" />
+<item key="Bookmark" value="Marcador" />
+<item key="Notes" value="Nota" />
+<item key="HighlightOn" value="Destaque ligado" />
+<item key="HighlightOff" value="Destaque desligado" />
+<item key="ExitFullScreen" value="Sair da tela cheia" />
+<item key="FullScreen" value="Tela cheia" />
+<item key="PreviousIssues" value="Edições anteriores" />
+<item key="ExpandCollapseAll" value="Maximizar / Minimizar tudo" />
+<item key="TableOfContents" value="Índice" />
+<item key="ThumbnailView" value="Miniaturas" />
+<item key="ShareThisFlipBook" value="Compartilhar esta edição" />
+<item key="ShareOnSocialNetwork" value="Compartilhar nas redes sociais" />
+<item key="PrintLeftPage" value="Imprimir pág. esquerda" />
+<item key="PrintRightPage" value="Imprimir pág. direita" />
+<item key="PrintBothPages" value="Imprimir as 2 páginas" />
+<item key="PrintSelectedPages" value="Imprimir págs. selecionadas" />
+<item key="Print" value="Imprimir" />
+<item key="SaveAsPDF" value="Salvar como PDF" />
+<item key="SaveLeftPage" value="Salvar pág. esquerda" />
+<item key="SaveRightPage" value="Salvar pág. direita" />
+<item key="Save" value="Salvar" />
+<item key="Download" value="Salvar edição" />
+<item key="DownloadZip" value="Salvar em formato ZIP" />
+<item key="DownloadExe" value="Salvar em formato EXE" />
+<item key="EnableAudio" value="Ativar áudio" />
+<item key="EnableFlippingSound" value="Ativar o som de folheamento" />
+<item key="SelectLanguage" value="Selecione idioma" />
+<item key="Close" value="Fechar" />
+<item key="AboutUs" value="Sobre nós" />
+<item key="BookTitle" value="Título" />
+<item key="BookAuthor" value="Autor" />
+<item key="CompanyName" value="Empresa" />
+<item key="CompanyUrl" value="URL" />
+<item key="Settings" value="Definições" />
+<item key="YourName" value="O seu nome" />
+<item key="YourEmail" value="O seu e-mail" />
+<item key="Message" value="Mensagem" />
+<item key="To" value="Para" />
+<item key="Send" value="Enviar" />
+<item key="OK" value="OK" />
+<item key="chs" value="Chinês simplificado" />
+<item key="cht" value="Chinês tradicional" />
+<item key="eng" value="Inglês" />
+<item key="fra" value="Francês" />
+<item key="ptg" value="Português" />
+<item key="deu" value="Alemão" />
+<item key="jpn" value="Japonês" />
+<item key="esn" value="Espanhol" />
+<item key="nld" value="Holandês" />
+<item key="rus" value="Russo" />
+<item key="arb" value="Árabe" />
+<item key="kor" value="Coreano" />
+<item key="ita" value="Italiano" />
+<item key="nor" value="Norueguês" />
+<item key="heb" value="Hebraico" />
+<item key="sve" value="Sueco" />
+<item key="den" value="Dinamarquês" />
+<item key="hun" value="Húngaro" />
+<item key="tur" value="Turco" /><item key="gre" value="Grego" />
+<item key="Bookmarks" value="Marcadores" />
+<item key="RemoveAll" value="Remover todos" />
+<item key="AddLeftBookmark" value="Na página esquerda" />
+<item key="AddRightBookmark" value="Na página direita" />
+<item key="Page" value="Página" />
+<item key="Restore" value="Restaurar" />
+<item key="Minimize" value="Minimizar" />
+<item key="Delete" value="Excluir" />
+<item key="DeleteNoteConfirm" value="Excluir esta nota?" />
+<item key="Yes" value="Sim" />
+<item key="No" value="Não" />
+<item key="PageRange" value="De" />
+<item key="MatchCase" value="Respeitar maiúsculas/minúsculas" />
+<item key="SearchResults" value="Resultados da pesquisa" />
+<item key="ErrorEmailAddress" value="Erro no endereço de e-mail" />
+<item key="AutoMoveAfterZoom" value="Mover automaticamente após o zoom" />
+<item key="EmptyInput" value="Entrada vazia" />
+<item key="EmailSendSuccessful" value="O E-mail foi enviado com sucesso" />
+<item key="ClickToFlip" value="Clique para virar a Página" />
+<item key="ClickOrDragToZoom" value="Clique para aumentar" />
+<item key="Add" value="Adicionar" />
+<item key="RemoveAll" value="Remover todos" />
+<item key="CompanyAddress" value="Endereço" />
+<item key="CompanyEmail" value="E-mail" />
+<item key="CompanyTel" value="Telefone" />
+<item key="SelectPagesFromThumbnails" value="Selecione as Páginas nas Miniaturas" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Não selecione mais de 15 Páginas de cada vez." />
+<item key="PagesBeingPrepared" value="Preparando a impressão. Esta operação pode demorar algum tempo. Por favor, aguarde ..." />
+<item key="Cancel" value="Cancelar" />
+<item key="ClickAddNote" value="Clique na página para adicionar nota" />
+<item key="Edit" value="Editar" />
+<item key="Clear" value="Apagar" />
+<item key="DownloadEntirePdfFile" value="Download do arquivo PDF inteiro" />
+<item key="BestViewInFullScreenMode" value="Este livro é melhor visualizado no modo de tela cheia." />
+<item key="EnterFullScreen" value="Entrar em tela cheia?" />
+<item key="EscToExit" value="Pressione a tecla ESC para sair do modo de tela cheia." />
+<item key="NeedPassword" value="Digite sua senha abaixo." />
+<item key="PasswordError" value="Senha inválida." />
+<item key="Submit" value="Submeter" />
+<item key="Reset" value="Redefinir" />
+<item key="ShareEmailContent" value=" Gostei desta publicação on-line e gostaria de compartilhar isso com você. Para ler a publicação online, clique aqui:" />
+<item key="ShareEmailTitle" value=" Quero compartilhar uma publicação on-line com você." />
+<item key="YourFriend" value="Seu amigo " />
+<item key="PrintCurrentPage" value="Imprimir a página atual" />
+<item key="Back" value="Voltar" />
+<item key="Forward" value="Avançar" />
+<item key="FullText" value="Somente texto" />
+<item key="SearchPreviousIssues" value="Pesquisar nas edições anteriores" />
+<item key="SaveBothPages" value="Salvar todas as páginas" />
+<item key="LicenseIsTrial" value="Está publicação é uma versão de teste com o tempo de visualização limitato em 2 minutos. Abra novamente a publicação para continuar." />
+<item key="NoPage" value="Por favor selecione as páginas" />
+<item key="GeneratedPdf" value="Gerando PDF, por favor Aguarde..." />
+<item key="PdfCreated" value="PDF foi gerado com sucesso." />
+<item key="AutoMove" value="Folhear automaticamente" />
+<item key="ForbiddenAutoMove" value="Desabilitar folheamento automático" />
+<item key="Fit100" value="Escalonar para 100%" />
+<item key="FitWindowWidth" value="Escalonar pela largura da tela" />
+<item key="DisableAudio" value="Desativar o áudio" />
+<item key="Pages" value="Páginas" />
+<item key="Zoom" value="Zoom" />
+<item key="Audio" value="Audio" />
+<item key="Highlight" value="Destacar" />
+<item key="SingleClickToZoom" value="Zoom com um clique" />
+<item key="DoubleClickToZoom" value="Zoom com 2 cliques" />
+<item key="MouseWheelZoom" value="Use a roda do mouse para entrar e sair do modo Zoom" />
+<item key="MouseWheelMove" value="Use a roda do mouse para mover" />
+<item key="MouseWheelFlip" value="Use a roda do mouse para folhear" />
+</lang>

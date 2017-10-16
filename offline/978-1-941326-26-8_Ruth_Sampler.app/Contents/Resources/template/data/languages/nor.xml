@@ -1,0 +1,116 @@
+﻿<lang>
+<item key="Help" value="Hjelpetips" />
+<item key="MoreInfo" value="Mer informasjon"/>
+<item key="FlipToFront" value="Gå til forsiden"/>
+<item key="FlipLeft" value="Bla til venstre"/>
+<item key="GotoPage" value="Gå til side"/>
+<item key="FlipRight" value="Bla til høyre"/>
+<item key="FlipToBack" value="Gå til baksiden" />
+<item key="ZoomIn" value="zoom inn" />
+<item key="ZoomOut" value="zoom ut"/>
+<item key="AutoFlip" value="Bla automatisk"/>
+<item key="Search" value="Søk"/>
+<item key="Bookmark" value="Bokmerke"/>
+<item key="Notes" value="Notater"/>
+<item key="HighlightOn" value="Markering av"/>
+<item key="HighlightOff" value="Markering på"/>
+<item key="ExitFullScreen" value="Avslutt fullskjerm"/>
+<item key="FullScreen" value="Fullskjerm"/>
+<item key="PreviousIssues" value="Tidligere utgaver"/>
+<item key="ExpandCollapseAll" value="Åpne/lukke alle"/>
+<item key="TableOfContents" value="Innholdsfortegnelse"/>
+<item key="ThumbnailView" value="Miniatyrvisning" />
+<item key="ShareThisFlipBook" value="Del denne boka"/>
+<item key="ShareOnSocialNetwork" value="Del på soliale medier" />
+<item key="PrintLeftPage" value="Skriv ut venstre side"/>
+<item key="PrintRightPage" value="Skriv ut høyre side" />
+<item key="PrintBothPages" value="Skriv ut begge sider" />
+<item key="PrintSelectedPages" value="Skriv ut valge sider"/>
+<item key="Print" value="Skriv ut" />
+<item key="SaveAsPDF" value="Lagre som PDF"/>
+<item key="SaveLeftPage" value="Lagre venstre side" />
+<item key="SaveRightPage" value="Lagre høyre side" />
+<item key="Save" value="Lagre"/>
+<item key="Download" value="Last ned"/>
+<item key="DownloadZip" value="Last ned lagret versjon i ZIP format" />
+<item key="DownloadExe" value="Last ned lagret versjon i EXE format"/>
+<item key="EnableAudio" value="Sett på lyd"/>
+<item key="EnableFlippingSound" value="Sett på bla-lyd"/>
+<item key="SelectLanguage" value="Velg språk" />
+<item key="Close" value="Lukk" />
+<item key="AboutUs" value="Om oss" />
+<item key="BookTitle" value="Boktittel" />
+<item key="BookAuthor" value="Forfatter"/>
+<item key="CompanyName" value="Firmanavn"/>
+<item key="CompanyUrl" value="Firma lenke"/>
+<item key="Settings" value="Innstillinger"/>
+<item key="YourName" value="Ditt navn"/>
+<item key="YourEmail" value="Din epost"/>
+<item key="Message" value="Melding" />
+<item key="To" value="Til"/>
+<item key="Send" value="Send"/>
+<item key="OK" value="OK"/>
+<item key="chs" value="Forenklet kinesisk" />
+<item key="cht" value="Tradisjonell kinesisk" />
+<item key="eng" value="Engelsk" />
+<item key="fra" value="Fransk" />
+<item key="ptg" value="Portugisisk" />
+<item key="deu" value="Tysk" />
+<item key="jpn" value="Japansk" />
+<item key="esn" value="Spansk" />
+<item key="nld" value="Nederlandsk" />
+<item key="rus" value="Russisk" />
+<item key="arb" value="Arabisk" />
+<item key="kor" value="Koreansk" />
+<item key="ita" value="Italiensk" />
+<item key="nor" value="Norsk" />
+<item key="heb" value="hebraisk" />
+<item key="sve" value="Svensk" />
+<item key="den" value="Dansk" />
+<item key="hun" value="Ungarsk" />
+<item key="tur" value="Tyrkisk" />
+<item key="gre" value="Gresk" />
+<item key="Bookmarks" value="Bokmerker" />
+<item key="RemoveAll" value="Fjern alle"/>
+<item key="AddLeftBookmark" value="Legg til bokmerke venstre" />
+<item key="AddRightBookmark" value="Legg til bokmerke høyre"/>
+<item key="Page" value="Side" />
+<item key="Restore" value="Gjennopprett" />
+<item key="Minimize" value="Minimer" />
+<item key="Delete" value="Slett" />
+<item key="DeleteNoteConfirm" value="Slett notatet?"/>
+<item key="Yes" value="Ja"/>
+<item key="No" value="Nei"/>
+<item key="PageRange" value="Side intervall" />
+<item key="MatchCase" value="Sammenlign type" />
+<item key="SearchResults" value="Søkeresultat" />
+<item key="ErrorEmailAddress" value="Ugyldig epost adresse" />
+<item key="AutoMoveAfterZoom" value="Auto flytt etter zoom"/>
+<item key="EmptyInput" value="Tomt felt"/>
+<item key="EmailSendSuccessful" value="Epost sendt" />
+<item key="ClickToFlip" value="Klikk for å bla"/>
+<item key="ClickOrDragToZoom" value="Klikk eller dra for å zoome" />
+<item key="Add" value="Legge til" />
+<item key="RemoveAll" value="Slett alt" />
+<item key="CompanyAddress" value="Adresse" />
+<item key="CompanyEmail" value="Epost" />
+<item key="CompanyTel" value="Telefon" />
+<item key="SelectPagesFromThumbnails" value="Velg sider fra miniatyrer" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Ikke velg mer enn 15 sider av gangen" />
+<item key="PagesBeingPrepared" value="Sider blir klargjort for utskrift. Dette kan ta noen minutter. Vennligst vent"/>
+<item key="Cancel" value="Avbryt"/>
+<item key="ClickAddNote" value="Klikk på siden for å legge til notat" />
+<item key="Edit" value="Editer" />
+<item key="Clear" value="Blank ut"/>
+<item key="DownloadEntirePdfFile" value="Last ned hele PDF filen" />
+<item key="BestViewInFullScreenMode" value="Denne boka vises best i fullskjerm" />
+<item key="EnterFullScreen" value="Bruk fullskjerm?" />
+<item key="EscToExit" value="Trykk ESC for normal visning" />
+<item key="NeedPassword" value="Skriv inn passord under" />
+<item key="PasswordError" value="Ugyldig passord" />
+<item key="Submit" value="Send" />
+<item key="Reset" value="Omstart"/>
+<item key="ShareEmailContent" value=" liker følgende online publikajson og vil gjerne dele den med deg. Klikk for å lese den:" />
+<item key="ShareEmailTitle" value=" vil dele en online publikasjon med deg" />
+<item key="YourFriend" value="Din venn" />
+</lang>

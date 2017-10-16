@@ -1,0 +1,116 @@
+﻿<lang>
+<item key="Help" value="Hulp" />
+<item key="MoreInfo" value="Informatie" />
+<item key="FlipToFront" value="Blader naar cover" />
+<item key="FlipLeft" value="Terug bladeren" />
+<item key="GotoPage" value="Ga naar pagina" />
+<item key="FlipRight" value="Verder bladeren" />
+<item key="FlipToBack" value="Blader naar achtercover" />
+<item key="ZoomIn" value="Vergroten" />
+<item key="ZoomOut" value="Verkleinen" />
+<item key="AutoFlip" value="automatisch omslaan" />
+<item key="Search" value="Zoeken" />
+<item key="Bookmark" value="Bladwijzer" />
+<item key="Notes" value="Notitie" />
+<item key="HighlightOn" value="Markeringen uit" />
+<item key="HighlightOff" value="Markeringen aan" />
+<item key="ExitFullScreen" value="Full Screen verlaten" />
+<item key="FullScreen" value="Groot scherm" />
+<item key="PreviousIssues" value="archief" />
+<item key="ExpandCollapseAll" value="Alle uitbreiden / instorten" />
+<item key="TableOfContents" value="Inhoudsopgave" />
+<item key="ThumbnailView" value="Miniatuur overzicht" />
+<item key="ShareThisFlipBook" value="Dit FlipBook aan iemand zenden" />
+<item key="ShareOnSocialNetwork" value="Delen op Social Network" />
+<item key="PrintLeftPage" value="Print linker pagina" />
+<item key="PrintRightPage" value="Print rechter pagina" />
+<item key="PrintBothPages" value="Print beide pagina's" />
+<item key="PrintSelectedPages" value="Print geselecteerde" />
+<item key="Print" value="Printen" />
+<item key="SaveAsPDF" value="Bewaar als PDF" />
+<item key="SaveLeftPage" value="Linker pagina bewaren" />
+<item key="SaveRightPage" value="Rechter pagina bewaren" />
+<item key="Save" value="Bewaren" />
+<item key="Download" value="Download" />
+<item key="DownloadZip" value="Dit FlipBook in ZIP format downloaden" />
+<item key="DownloadExe" value="Dit FlipBook in EXE format downloaden" />
+<item key="EnableAudio" value="Activeer Audio" />
+<item key="EnableFlippingSound" value="Activeer omslaan bladzijde geluid" />
+<item key="SelectLanguage" value="Selecteer taal" />
+<item key="Close" value="Schluiten" />
+<item key="AboutUs" value="Over ons" />
+<item key="BookTitle" value="Titel" />
+<item key="BookAuthor" value="Uitgever" />
+<item key="CompanyName" value="Bedrijfsnaam" />
+<item key="CompanyUrl" value="Website" />
+<item key="Settings" value="Instellingen" />
+<item key="YourName" value="Uw naam" />
+<item key="YourEmail" value="Uw email" />
+<item key="Message" value="Boodschap" />
+<item key="To" value="Aan" />
+<item key="Send" value="Verzenden" />
+<item key="OK" value="OK" />
+<item key="chs" value="Chinees (Vereenvoudigd)" />
+<item key="cht" value="Chinees (Traditioneel)" />
+<item key="eng" value="Engels" />
+<item key="fra" value="Frans" />
+<item key="ptg" value="Portugees" />
+<item key="deu" value="Duits" />
+<item key="jpn" value="Japans" />
+<item key="esn" value="Spaans" />
+<item key="nld" value="Nederlands" />
+<item key="rus" value="Russisch" />
+<item key="arb" value="Arabisch" />
+<item key="kor" value="Koreaans" />
+<item key="ita" value="Italiaans" />
+<item key="nor" value="Noors" />
+<item key="heb" value="Hebreeuws" />
+<item key="sve" value="Zweeds" />
+<item key="den" value="Deens" />
+<item key="hun" value="Hongaars" />
+<item key="tur" value="Turks" />
+<item key="gre" value="Grieks" />
+<item key="Bookmarks" value="Bladwijzer" />
+<item key="RemoveAll" value="Alles verwijderen" />
+<item key="AddLeftBookmark" value="Linker bladwijzer" />
+<item key="AddRightBookmark" value="Rechter bladwijzer" />
+<item key="Page" value="Pagina" />
+<item key="Restore" value="Herstellen" />
+<item key="Minimize" value="Minimaliseren" />
+<item key="Delete" value="Verwijderen" />
+<item key="DeleteNoteConfirm" value="Verwijder deze Notitie?" />
+<item key="Yes" value="Ja" />
+<item key="No" value="Nee" />
+<item key="PageRange" value="Paginabereik" />
+<item key="MatchCase" value="Hoofdletters/onderkast" />
+<item key="SearchResults" value="Zoekresultaten" />
+<item key="ErrorEmailAddress" value="Ongeldig e-mailadres" />
+<item key="AutoMoveAfterZoom" value="Auto Move Na Zoom" />
+<item key="EmptyInput" value="bericht is vereist" />
+<item key="EmailSendSuccessful" value="Email is verzonden" />
+<item key="ClickToFlip" value="Klikt u op Naar Flip" />
+<item key="ClickOrDragToZoom" value="Klik en sleep om te zoomen" />
+<item key="Add" value="Voeg" />
+<item key="RemoveAll" value="Alles verwijderen" />
+<item key="CompanyAddress" value="Adres" />
+<item key="CompanyEmail" value="e-mail" />
+<item key="CompanyTel" value="Telefoon" />
+<item key="SelectPagesFromThumbnails" value="Selecteer pagina's uit miniatuuroverzicht." />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Selecteer aub niet meer dan 15 pagina's tegelijkertijd." />
+<item key="PagesBeingPrepared" value="Voorbereiding voor afdrukken. Dit kan enkele minuten duren. Aub geduld…" />
+<item key="Cancel" value="Cancel" />
+<item key="ClickAddNote" value="Klik op de pagina om notitie toe te voegen" />
+<item key="Edit" value="Opmaken" />
+<item key="Clear" value="Reset" />
+<item key="DownloadEntirePdfFile" value="Download complete PDF-bestand" />
+<item key="BestViewInFullScreenMode" value="Dit boek is het best bekeken in full-screen modus." />
+<item key="EnterFullScreen" value="Geef full-screen?" />
+<item key="EscToExit" value="Druk op ESC-toets om de modus Volledig scherm te verlaten." />
+<item key="NeedPassword" value="Voer hieronder wachtwoord in." />
+<item key="PasswordError" value="Ongeldig wachtwoord." />
+<item key="Submit" value="Voorleggen" />
+<item key="Reset" value="Reset" />
+<item key="ShareEmailContent" value=" houdt van de volgende online publicatie en zou het graag met u delen. Voor het lezen van de online publicatie, klik hier: " />
+<item key="ShareEmailTitle" value=" wil graag met u delen online publicaties" />
+<item key="YourFriend" value="Uw vriend " />
+</lang>

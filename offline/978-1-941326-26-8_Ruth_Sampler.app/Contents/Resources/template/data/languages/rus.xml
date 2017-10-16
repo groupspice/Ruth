@@ -1,0 +1,116 @@
+﻿<lang>
+<item key="Help" value="Помощь" />
+<item key="MoreInfo" value="Информация" />
+<item key="FlipToFront" value="Перейти к первой обложке" />
+<item key="FlipLeft" value="Листать влево" />
+<item key="GotoPage" value="Перейти на страницу" />
+<item key="FlipRight" value="Листать вправо" />
+<item key="FlipToBack" value="Перейти к последней обложке" />
+<item key="ZoomIn" value="Увеличить" />
+<item key="ZoomOut" value="Уменьшить" />
+<item key="AutoFlip" value="Начать Auto-flip" />
+<item key="Search" value="Поиск" />
+<item key="Bookmark" value="Закладка" />
+<item key="Notes" value="Заметка" />
+<item key="HighlightOn" value="Световые эффекты выключены" />
+<item key="HighlightOff" value="Световые эффекты включены" />
+<item key="ExitFullScreen" value="Выйти из полноэкранного режима" />
+<item key="FullScreen" value="Полноэкранный режим" />
+<item key="PreviousIssues" value="архив" />
+<item key="ExpandCollapseAll" value="Развернуть/Свернуть все" />
+<item key="TableOfContents" value="Содержание" />
+<item key="ThumbnailView" value="Эскизы страниц" />
+<item key="ShareThisFlipBook" value="Отправить ссылку на издание" />
+<item key="ShareOnSocialNetwork" value="Поделиться на социальную сеть" />
+<item key="PrintLeftPage" value="Печать левой страницы" />
+<item key="PrintRightPage" value="Печать правой страницы" />
+<item key="PrintBothPages" value="Печать обеих страниц" />
+<item key="PrintSelectedPages" value="Печать выбранного" />
+<item key="Print" value="Печать" />
+<item key="SaveAsPDF" value="Сохранить как PDF" />
+<item key="SaveLeftPage" value="Левую страницу" />
+<item key="SaveRightPage" value="Правую страницу" />
+<item key="Save" value="Сохранить" />
+<item key="Download" value="Загрузить" />
+<item key="DownloadZip" value="Загрузить издание в формате ZIP" />
+<item key="DownloadExe" value="Загрузить издание в формате EXE" />
+<item key="EnableAudio" value="Аудио невозможно" />
+<item key="EnableFlippingSound" value="Flipping звук невозможен" />
+<item key="SelectLanguage" value="выбрать язык" />
+<item key="Close" value="Закрыть" />
+<item key="AboutUs" value="О нас" />
+<item key="BookTitle" value="Название издания" />
+<item key="BookAuthor" value="Автор издания" />
+<item key="CompanyName" value="Название компании" />
+<item key="CompanyUrl" value="Сайт компании" />
+<item key="Settings" value="Настройки" />
+<item key="YourName" value="Ваше имя" />
+<item key="YourEmail" value="Ваш Email" />
+<item key="Message" value="Сообщение" />
+<item key="To" value="Кому" />
+<item key="Send" value="Послать" />
+<item key="OK" value="OK" />
+<item key="chs" value="упрощённый китайский" />
+<item key="cht" value="традиционный китайский" />
+<item key="eng" value="английский" />
+<item key="fra" value="французский" />
+<item key="ptg" value="португальский" />
+<item key="deu" value="немецкий" />
+<item key="jpn" value="японский" />
+<item key="esn" value="испанский" />
+<item key="rus" value="Русский язык" />
+<item key="nld" value="голландский" />
+<item key="arb" value="арабский" />
+<item key="kor" value="корейский" />
+<item key="ita" value="итальянский" />
+<item key="nor" value="норвежский" />
+<item key="heb" value="иврит" />
+<item key="sve" value="шведский" />
+<item key="den" value="датский" />
+<item key="hun" value="венгерский" />
+<item key="tur" value="турецкий" />
+<item key="gre" value="греческий" />
+<item key="Bookmarks" value="Закладки" />
+<item key="RemoveAll" value="Удалить все" />
+<item key="AddLeftBookmark" value="Добавить закладку слева" />
+<item key="AddRightBookmark" value="Добавить закладку справа" />
+<item key="Page" value="Стр." />
+<item key="Restore" value="Восстановить" />
+<item key="Minimize" value="Свернуть" />
+<item key="Delete" value="удалять" />
+<item key="DeleteNoteConfirm" value="Удалить эту заметку?" />
+<item key="Yes" value="Да" />
+<item key="No" value="Нет" />
+<item key="PageRange" value="Диапазон страниц" />
+<item key="MatchCase" value="С учетом регистра" />
+<item key="SearchResults" value="Результаты поиска" />
+<item key="ErrorEmailAddress" value="Неправильный Email адрес." />
+<item key="AutoMoveAfterZoom" value="После усиления автоматически перемещать" />
+<item key="EmptyInput" value="введите сообщение" />
+<item key="EmailSendSuccessful" value="Email отправлен" />
+<item key="ClickToFlip" value="Нажмите для перелистывания" />
+<item key="ClickOrDragToZoom" value="Нажмите или перетащите для увеличения" />
+<item key="Add" value="Добавить" />
+<item key="RemoveAll" value="Удалить все" />
+<item key="CompanyAddress" value="Адрес" />
+<item key="CompanyEmail" value="Email" />
+<item key="CompanyTel" value="Телефон" />
+<item key="SelectPagesFromThumbnails" value="Выделить страницы по эскизам" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Пожалуйста не выбирайте более 15 страниц единовременно." />
+<item key="PagesBeingPrepared" value="Страницы готовятся к печати. Это может занять несколько минут. Пожалуйста подождите…" />
+<item key="Cancel" value="Отменить" />
+<item key="ClickAddNote" value="Нажмите для добавления заметки" />
+<item key="Edit" value="Правка" />
+<item key="Clear" value="Очистить" />
+<item key="DownloadEntirePdfFile" value="Скачать PDF файл целом" />
+<item key="BestViewInFullScreenMode" value="Эта книга лучше всего просматривать в полноэкранном режиме." />
+<item key="EnterFullScreen" value="Введите полный экран?" />
+<item key="EscToExit" value="Нажмите ESC для выхода из полноэкранного режима." />
+<item key="NeedPassword" value="Пожалуйста, введите пароль." />
+<item key="PasswordError" value="Неверный пароль." />
+<item key="Submit" value="Передать" />
+<item key="Reset" value="переустанавливать" />
+<item key="ShareEmailContent" value=" Пол любит следующие Интернет-издания, и хотел бы поделиться им с вами. Чтобы прочитать интернет-издание, нажмите здесь:" />
+<item key="ShareEmailTitle" value=" хочет поделиться интернет-издание с вами" />
+<item key="YourFriend" value="Ваш друг " />
+</lang>

@@ -1,0 +1,116 @@
+﻿<lang>
+<item key="Help" value="Hjälp" />
+<item key="MoreInfo" value="Mer information" />
+<item key="FlipToFront" value="Första sidan" />
+<item key="FlipLeft" value="Föregående sida" />
+<item key="GotoPage" value="Gå till sida" />
+<item key="FlipRight" value="Nästa sida" />
+<item key="FlipToBack" value="Sista sidan" />
+<item key="ZoomIn" value="Zooma in" />
+<item key="ZoomOut" value="Zooma ut" />
+<item key="AutoFlip" value="Bläddra automatiskt" />
+<item key="Search" value="Sök" />
+<item key="Bookmark" value="Bokmärke" />
+<item key="Notes" value="Noteringar" />
+<item key="HighlightOn" value="Markering av" />
+<item key="HighlightOff" value="Markering på" />
+<item key="ExitFullScreen" value="Lämna fullskärmsläge" />
+<item key="FullScreen" value="Helskärmsläge" />
+<item key="PreviousIssues" value="Tidigare utgåvor" />
+<item key="ExpandCollapseAll" value="Öppna/Stäng alla" />
+<item key="TableOfContents" value="Innehållsförteckning" />
+<item key="ThumbnailView" value="Miniatyrer" />
+<item key="ShareThisFlipBook" value="Dela med E-post" />
+<item key="ShareOnSocialNetwork" value="Dela i sociala nätverk" />
+<item key="PrintLeftPage" value="Skriv ut vänster sida" />
+<item key="PrintRightPage" value="Skriv ut höger sida" />
+<item key="PrintBothPages" value="Skriv ut båda sidorna" />
+<item key="PrintSelectedPages" value="Skriv ut valda sidor" />
+<item key="Print" value="Skriv ut" />
+<item key="SaveAsPDF" value="Spara som PDF" />
+<item key="SaveLeftPage" value="Spara vänster sida" />
+<item key="SaveRightPage" value="Spara höger sida" />
+<item key="Save" value="Spara" />
+<item key="Download" value="Ladda ner" />
+<item key="DownloadZip" value="Ladda ner lokal version i ZIP-format" />
+<item key="DownloadExe" value="Ladda ner lokal version i EXE-format" />
+<item key="EnableAudio" value="Koppla på ljud" />
+<item key="EnableFlippingSound" value="Koppla på blädderljud" />
+<item key="SelectLanguage" value="Välj språk" />
+<item key="Close" value="Stäng" />
+<item key="AboutUs" value="Om oss" />
+<item key="BookTitle" value="Titel" />
+<item key="BookAuthor" value="Författare" />
+<item key="CompanyName" value="Företag" />
+<item key="CompanyUrl" value="Webbplats" />
+<item key="Settings" value="Settings" />
+<item key="YourName" value="Ditt namn" />
+<item key="YourEmail" value="Din E-post" />
+<item key="Message" value="Meddelande" />
+<item key="To" value="Till" />
+<item key="Send" value="Skicka" />
+<item key="OK" value="Ok" />
+<item key="chs" value="Förenklad kinesiska" />
+<item key="cht" value="Traditionell kinesiska" />
+<item key="eng" value="Engelska" />
+<item key="fra" value="Franska" />
+<item key="ptg" value="Portugisiska" />
+<item key="deu" value="Tyska" />
+<item key="jpn" value="Japanska" />
+<item key="esn" value="Spanska" />
+<item key="nld" value="Nederländska" />
+<item key="rus" value="Ryska" />
+<item key="arb" value="Arabiska" />
+<item key="kor" value="Koreanska" />
+<item key="ita" value="Italienska" />
+<item key="nor" value="Norska" />
+<item key="heb" value="Hebreiska" />
+<item key="sve" value="Svenska" />   
+<item key="den" value="Danska" />
+<item key="hun" value="Hungarian" />
+<item key="tur" value="Turkiska" />  
+<item key="gre" value="Grekiska" />       
+<item key="Bookmarks" value="Bokmärken" />
+<item key="RemoveAll" value="Ta bort alla" />
+<item key="AddLeftBookmark" value="Lägg till vänster bokmärke" />
+<item key="AddRightBookmark" value="Lägg till höger bokmärke" />
+<item key="Page" value="Sida" />
+<item key="Restore" value="Återställ" />
+<item key="Minimize" value="Minimera" />
+<item key="Delete" value="Ta bort" />
+<item key="DeleteNoteConfirm" value="Ta bort notering?" />
+<item key="Yes" value="Ja" />
+<item key="No" value="Nej" />
+<item key="PageRange" value="Sidintervall" />
+<item key="MatchCase" value="Skilj på stora och små bokstäver" />
+<item key="SearchResults" value="Sökresultat" />
+<item key="ErrorEmailAddress" value="Ogiltig E-postadress" />
+<item key="AutoMoveAfterZoom" value="Sida följer mus efter zoomning" />
+<item key="EmptyInput" value="Tomt inlägg" />
+<item key="EmailSendSuccessful" value="E-post skickat" />
+<item key="ClickToFlip" value="Klicka för att bläddra" />
+<item key="ClickOrDragToZoom" value="Klicka eller dra för att zooma" />
+<item key="Add" value="Lägg till" />
+<item key="RemoveAll" value="Ta bort alla" />
+<item key="CompanyAddress" value="Adress" />
+<item key="CompanyEmail" value="E-post" />
+<item key="CompanyTel" value="Telefon" />
+<item key="SelectPagesFromThumbnails" value="Välj sidor från miniatyrer" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Välj inte fler än 15 sidor åt gången." />
+<item key="PagesBeingPrepared" value="Sidorna förbereds för utskrift. Det kan ta ett par minuer..." />
+<item key="Cancel" value="Avbryt" />
+<item key="ClickAddNote" value="Klicka på en sida för att skriva din notering" />
+<item key="Edit" value="Ändra" />
+<item key="Clear" value="Rensa" />
+<item key="DownloadEntirePdfFile" value="Ladda ner hela PDF-filen" />
+<item key="BestViewInFullScreenMode" value="Den här publikationen visas bäst i helskärmsläge." />
+<item key="EnterFullScreen" value="Gå till helskärmsläge?" />
+<item key="EscToExit" value="Tryck ESC för att lämna helskärmsläge." />
+<item key="NeedPassword" value="Ange lösenord nedan." />
+<item key="PasswordError" value="Ogiltigt lösenord." />
+<item key="Submit" value="Skicka" />
+<item key="Reset" value="Rensa" />
+<item key="ShareEmailContent" value=" gillar den här publikationen och vill dela den med dig. För att läsa publikationen, klicka här: " />
+<item key="ShareEmailTitle" value=" vill dela denna publikation med dig" />
+<item key="YourFriend" value="Din vän " />
+</lang>

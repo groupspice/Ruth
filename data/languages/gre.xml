@@ -1,0 +1,141 @@
+<lang>
+<item key="Help" value="Βοήθεια" />
+<item key="MoreInfo" value="Περισσότερες Πληροφορίες" />
+<item key="FlipToFront" value="Μεταφορά στο Εξώφυλλο" />
+<item key="FlipLeft" value="Αλλαγή Σελίδας Πίσω" />
+<item key="GotoPage" value="Πήγαινε στη σελίδα" />
+<item key="FlipRight" value="Αλλαγή Σελίδας Μπροστά" />
+<item key="FlipToBack" value="Μεταφορά στο Οπισθόφυλλο" />
+<item key="ZoomIn" value="Μεγέθυνση" />
+<item key="ZoomOut" value="Σμίκρυνση" />
+<item key="AutoFlip" value="Αυτόματη Αλλαγή Σελίδων" />
+<item key="Search" value="Αναζήτηση" />
+<item key="Bookmark" value="Σελιδοδείκτης" />
+<item key="Notes" value="Σημειώσεις" />
+<item key="HighlightOn" value="Επισήμανση Κλειστή" />
+<item key="HighlightOff" value="Επισήμανση Ανοιχτή" />
+<item key="ExitFullScreen" value="Έξοδος από Πλήρη Οθόνη" />
+<item key="FullScreen" value="Πλήρης Οθόνη" />
+<item key="PreviousIssues" value="Βιβλιοθήκη Αρχείου" />
+<item key="ExpandCollapseAll" value="Expand/Collapse All" />
+<item key="TableOfContents" value="Περιεχόμενα" />
+<item key="ThumbnailView" value="Προβολή Μικρογραφιών" />
+<item key="ShareThisFlipBook" value="Μοιράσου αυτό το βιβλίο" />
+<item key="ShareOnSocialNetwork" value="Μοιράσου στα μέσα κοινωνικής δικτύωσης" />
+<item key="PrintLeftPage" value="Εκτύπωση Αριστερής Σελίδας" />
+<item key="PrintRightPage" value="Εκτύπωση Δεξιάς Σελίδας" />
+<item key="PrintBothPages" value="Εκτύπωση και των δύο Σελίδων" />
+<item key="PrintSelectedPages" value="Εκτύπωση Επιλεγμένων Σελίδων" />
+<item key="Print" value="Εκτύπωση" />
+<item key="SaveAsPDF" value="Αποθήκευση ως PDF" />
+<item key="SaveLeftPage" value="Αποθήκευση Αριστερής Σελίδας" />
+<item key="SaveRightPage" value="Αποθήκευση Δεξιάς Σελίδας" />
+<item key="Save" value="Αποθήκευση" />
+<item key="Download" value="Λήψη" />
+<item key="DownloadZip" value="Λήψη Offline Έκδοσης σε μορφή ZIP" />
+<item key="DownloadExe" value="Λήψη Offline Έκδοσης σε μορφή EXE" />
+<item key="EnableAudio" value="Ενεργοποίηση Ήχου" />
+<item key="EnableFlippingSound" value="Ενεργοποίηση Ήχου Αλλαγής Σελίδας" />
+<item key="SelectLanguage" value="Επιλογή Γλώσσας" />
+<item key="Close" value="Κλείσιμο" />
+<item key="AboutUs" value="Σχετικά" />
+<item key="BookTitle" value="Τίτλος Βιβλίου" />
+<item key="BookAuthor" value="Συγγραφέας Βιβλίου" />
+<item key="CompanyName" value="Επωνυμία Εταιρείας" />
+<item key="CompanyUrl" value="Url Εταιρείας" />
+<item key="Settings" value="Ρυθμίσεις" />
+<item key="YourName" value="Το Όνομά σας" />
+<item key="YourEmail" value="Το Email σας" />
+<item key="Message" value="Μήνυμα" />
+<item key="To" value="Προς" />
+<item key="Send" value="Αποστολή" />
+<item key="OK" value="OK" />
+<item key="chs" value="Απλοποιημένα Κινέζικα" />
+<item key="cht" value="Παραδοσιακά Κινέζικα" />
+<item key="eng" value="Αγγλικά" />
+<item key="fra" value="Γαλλικά" />
+<item key="ptg" value="Πορτογαλικά" />
+<item key="deu" value="Γερμανικά" />
+<item key="jpn" value="Ιαπωνικά" />
+<item key="esn" value="Ισπανικά" />
+<item key="nld" value="Ολλανδικά" />
+<item key="rus" value="Ρώσικα" />
+<item key="arb" value="Αραβικά" />
+<item key="kor" value="Κορεάτικα" />
+<item key="ita" value="Ιταλικά" />
+<item key="nor" value="Νορβηγικά" />
+<item key="heb" value="Εβραϊκά" />
+<item key="sve" value="Σουηδικά" />
+<item key="den" value="Δανικά" />
+<item key="hun" value="Ουγγρικά" />
+<item key="tur" value="Τουρκικά" />
+<item key="gre" value="Ελληνικά" />
+<item key="Bookmarks" value="Σελιδοδείκτες" />
+<item key="RemoveAll" value="Αφαίρεση Όλων" />
+<item key="AddLeftBookmark" value="Προσθήκη Αριστερού Σελιδοδείκτη" />
+<item key="AddRightBookmark" value="Προσθήκη Δεξιού Σελιδοδείκτη" />
+<item key="Page" value="Σελίδα" />
+<item key="Restore" value="Επαναφορά" />
+<item key="Minimize" value="Ελαχιστοποίηση" />
+<item key="Delete" value="Διαγραφή" />
+<item key="DeleteNoteConfirm" value="Διαγραφή αυτής της σημείωσης;" />
+<item key="Yes" value="Ναι" />
+<item key="No" value="Όχι" />
+<item key="PageRange" value="Εύρος Σελίδων" />
+<item key="MatchCase" value="Ταίριασμα Πεζών-Κεφαλαίων" />
+<item key="SearchResults" value="Αναζήτηση Αποτελεσμάτων" />
+<item key="ErrorEmailAddress" value="Λάθος Διεύθυνση Email" />
+<item key="AutoMoveAfterZoom" value="Αυτόματη Μετακίνηση μετά από Ζουμ" />
+<item key="EmptyInput" value="Άδειο Πεδίο" />
+<item key="EmailSendSuccessful" value="Επιτυχής Αποστολή Email." />
+<item key="ClickToFlip" value="Κάντε Κλικ για Αλλαγή Σελίδας" />
+<item key="ClickOrDragToZoom" value="Κάντε κλικ ή Σύρετε για Μεγέθυνση" />
+<item key="Add" value="Προσθήκη" />
+<item key="RemoveAll" value="Αφαίρεση Όλων" />
+<item key="CompanyAddress" value="Διεύθυνση" />
+<item key="CompanyEmail" value="Email" />
+<item key="CompanyTel" value="Τηλ" />
+<item key="SelectPagesFromThumbnails" value="Επιλέξτε σελίδες από τις μικρογραφίες" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Παρακαλώ επιλέξτε έως 15 σελίδες κάθε φορά." />
+<item key="PagesBeingPrepared" value="Οι σελίδες προετοιμάζονται για εκτύπωση. Αυτή η διαδικασία μπορεί να διαρκέσει μερικά λεπτά. Παρακαλώ περιμένετε ..." />
+<item key="Cancel" value="Άκυρο" />
+<item key="ClickAddNote" value="Κάντε κλικ στη σελίδα για να προσθέσετε την σημείωσή σας" />
+<item key="Edit" value="Επεξεργασία" />
+<item key="Clear" value="Καθαρισμός" />
+<item key="DownloadEntirePdfFile" value="Κατεβάστε ολόκληρο το PDF αρχείο" />
+<item key="BestViewInFullScreenMode" value="Η δημοσίευση προβάλλεται καλύτερα σε πλήρη οθόνη." />
+<item key="EnterFullScreen" value="Έξοδος από πλήρη οθόνη;" />
+<item key="EscToExit" value="Πατήστε το πλήκτρο ESC για έξοδο από πλήρη οθόνη." />
+<item key="NeedPassword" value="Παρακαλώ εισάγετε κωδικό πρόσβασης παρακάτω." />
+<item key="PasswordError" value="Μη έγκυρος κωδικός πρόσβασης." />
+<item key="Submit" value="Υποβολή" />
+<item key="Reset" value="Επαναφορά" />
+<item key="ShareEmailContent" value=" του/της άρεσε η παρακάτω δημοσίευση και ήθελε να την μοιραστεί μαζί σου. Για να διαβάσετε την online δημοσίευση, πατήστε εδώ: " />
+<item key="ShareEmailTitle" value=" θέλει να μοιραστεί μία online δημοσίευση μαζί σου" />
+<item key="YourFriend" value="Ο Φίλος σου " />
+<item key="PrintCurrentPage" value="Εκτύπωση Τρέχουσας Σελίδας" />
+<item key="Back" value="Πίσω" />
+<item key="Forward" value="Μπροστά" />
+<item key="FullText" value="Πλήρες Κείμενο" />
+<item key="SearchPreviousIssues" value="Αναζήτηση στη Βιβλιοθήκη Αρχείου" />
+<item key="SaveBothPages" value="Αποθήκευση και των δύο σελίδων" />
+<item key="LicenseIsTrial" value="Αυτή η δημοσίευση παρουσιάστηκε ως δοκιμαστική και περιορισμό χρόνου στα 2 λεπτά. Ανοίξτε την δημοσίευση ξανά για αναθεώρηση." />
+<item key="NoPage" value="Παρακαλώ εισάγετε περιοχή σελίδων" />
+<item key="GeneratedPdf" value="Δημιουργία PDF, παρακαλώ περιμένετε..." />
+<item key="PdfCreated" value="Το PDF δημιουργήθηκε." />
+<item key="AutoMove" value="Αυτόματη μετακίνηση" />
+<item key="ForbiddenAutoMove" value="Αυτόματη μετακίνηση Απαγορευμένη" />
+<item key="Fit100" value="Προσαρμογή στο 100%" />
+<item key="FitWindowWidth" value="Προσαρμογή στο μέγεθος του παραθύρου" />
+<item key="DisableAudio" value="Απενεργοποίηση Ήχου" />
+<item key="Pages" value="Σελίδες" />
+<item key="Zoom" value="Ζουμ" />
+<item key="Audio" value="Ήχος" />
+<item key="Highlight" value="Επισήμανση" />
+<item key="SingleClickToZoom" value="Απλό κλικ για ζουμ" />
+<item key="DoubleClickToZoom" value="Διπλό κλικ για ζουμ" />
+<item key="MouseWheelZoom" value="Κυλήστε την ροδέλα για να μεγεθύνετε ή να σμικρύνετε" />
+<item key="MouseWheelMove" value="Κυλήστε την ροδέλα για να μετακινηθείτε" />
+<item key="MouseWheelFlip" value="Κυλήστε την ροδέλα για να αλλάξετε σελίδα" />
+<item key="ExitConfirm" value="Είστε σίγουρος/η για την έξοδο;" />
+</lang>

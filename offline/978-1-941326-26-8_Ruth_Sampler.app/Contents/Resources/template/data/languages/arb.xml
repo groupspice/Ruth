@@ -1,0 +1,119 @@
+﻿<lang>
+<item key="Help" value="نصائح للمساعدﺩةﺓ" />
+<item key="MoreInfo" value="اﺍلمزﺯﯾﻳدﺩ منﻥ اﺍلمعلوﻭماتﺕ" />
+<item key="FlipToFront" value="قلّبﺏ للصفحة اﺍلأوﻭلى" />
+<item key="FlipLeft" value="قلّبﺏ للﯾﻳسارﺭ" />
+<item key="GotoPage" value="إﺇذﺫھﮪﮬﻫبﺏ للصفحة" />
+<item key="FlipRight" value="قلّبﺏ للﯾﻳمﯾﻳنﻥ" />
+<item key="FlipToBack" value="قلّبﺏ للصفحة اﺍلأخﯾﻳرﺭةﺓ" />
+<item key="ZoomIn" value="تكبﯾﻳرﺭ" />
+<item key="ZoomOut" value="تصغﯾﻳرﺭ" />
+<item key="AutoFlip" value="تقلﯾﻳبﺏ تلقائي" />
+<item key="Search" value="بحثﺙ" />
+<item key="Bookmark" value="اﺍلفﮭﻬرﺭسﺱ" />
+<item key="Notes" value="ملاحظﻅاتﺕ" />
+<item key="HighlightOn" value="اﺍطﻁفاء قلمﻡ اﺍلتحدﺩﯾﻳدﺩ" />
+<item key="HighlightOff" value="تشغﯾﻳلﻝ قلمﻡ اﺍلتحدﺩﯾﻳدﺩ" />
+<item key="ExitFullScreen" value="إﺇلغاء كاملﻝ اﺍلشاشة" />
+<item key="FullScreen" value="كاملﻝ اﺍلشاشة" />
+<item key="PreviousIssues" value="اﺍصدﺩاﺍرﺭاﺍتﺕ سابقة" />
+<item key="ExpandCollapseAll" value="توﻭسﯾﻳع / طﻁي اﺍلكلﻝ" />
+<item key="TableOfContents" value="جدﺩوﻭلﻝ اﺍلمحتوﻭﯾﻳاتﺕ" />
+<item key="ThumbnailView" value="عرﺭضﺽ كمصغرﺭاﺍتﺕ" />
+<item key="ShareThisFlipBook" value="شارﺭكﻙ ھﮪﮬﻫذﺫاﺍ اﺍلكتابﺏ" />
+<item key="ShareOnSocialNetwork" value="مشارﺭكة على اﺍلشبكة اﺍلاجتماعﯾﻳة" />
+<item key="PrintLeftPage" value="طﻁباعة اﺍلصفحة اﺍلﯾﻳسرﺭىﻯ" />
+<item key="PrintRightPage" value="طﻁباعة اﺍلصفحة اﺍلﯾﻳمنى" />
+<item key="PrintBothPages" value="طﻁباعة اﺍلصفحتﯾﻳنﻥ" />
+<item key="PrintSelectedPages" value="طﻁباعة اﺍلصفحاتﺕ اﺍلمحدﺩدﺩةﺓ" />
+<item key="Print" value="طﻁباعة" />
+<item key="SaveAsPDF" value="PDF اﺍحفظﻅ كنسخة" />
+<item key="SaveLeftPage" value="اﺍحفظﻅ اﺍلصفحة اﺍلﯾﻳسرﺭىﻯ" />
+<item key="SaveRightPage" value="اﺍحفظﻅ اﺍلصفحة اﺍلﯾﻳمنى" />
+<item key="Save" value="حفظﻅ" />
+<item key="Download" value="تحمﯾﻳلﻝ" />
+<item key="DownloadZip" value="ZIP تحمﯾﻳلﻝ اﺍلنسخة دﺩوﻭنﻥ اﺍتصالﻝ على شكلﻝ ملفﻑ مضغوﻭطﻁ" />
+<item key="DownloadExe" value="EXE تحمﯾﻳلﻝ اﺍلنسخة دﺩوﻭنﻥ اﺍتصالﻝ على شكلﻝ ملفﻑ تنفﯾﻳذﺫيﻱ" />
+<item key="EnableAudio" value="تمكﯾﻳنﻥ اﺍلصوﻭتﺕ" />
+<item key="EnableFlippingSound" value="تمكﯾﻳنﻥ صوﻭتﺕ اﺍلتقلﯾﻳبﺏ" />
+<item key="SelectLanguage" value="اﺍخترﺭ اﺍللغة" />
+<item key="Close" value="إﺇغلاقﻕ" />
+<item key="AboutUs" value="حوﻭلنا" />
+<item key="BookTitle" value="عنوﻭاﺍنﻥ اﺍلكتابﺏ" />
+<item key="BookAuthor" value="مؤﺅلفﻑ اﺍلكتابﺏ" />
+<item key="CompanyName" value="اﺍسمﻡ اﺍلشرﺭكة" />
+<item key="CompanyUrl" value="رﺭاﺍبطﻁ اﺍلموﻭقع اﺍلإلكترﺭوﻭني للشرﺭكة" />
+<item key="Settings" value="إﺇعدﺩاﺍدﺩاﺍتﺕ" />
+<item key="YourName" value="إﺇسمكﻙ" />
+<item key="YourEmail" value="برﺭﯾﻳدﺩكﻙ اﺍلإلكترﺭوﻭني" />
+<item key="Message" value="رﺭسالة" />
+<item key="To" value="إﺇلى" />
+<item key="Send" value="أﺃرﺭسلﻝ" />
+<item key="OK" value="موﻭاﺍفقﻕ" />
+<item key="chs" value="اﺍلصﯾﻳنﯾﻳة اﺍلمبسّطﻁة" />
+<item key="cht" value="اﺍلصﯾﻳنﯾﻳة اﺍلتقلﯾﻳدﺩﯾﻳة" />
+<item key="eng" value="اﺍلإنجلﯾﻳزﺯﯾﻳة" />
+<item key="fra" value="اﺍلفرﺭنسﯾﻳة" />
+<item key="eng" value="اﺍلإنجلﯾﻳزﺯﯾﻳة" />
+<item key="fra" value="اﺍلفرﺭنسﯾﻳة" />
+<item key="ptg" value="اﺍلبرﺭتغالﯾﻳة" />
+<item key="deu" value="اﺍلألمانﯾﻳة" />
+<item key="jpn" value="اﺍلﯾﻳابانﯾﻳة" />
+<item key="esn" value="اﺍلأسبانﯾﻳة" />
+<item key="nld" value="اﺍلﮭﻬوﻭلندﺩﯾﻳة" />
+<item key="rus" value="اﺍلرﺭوﻭسﯾﻳة" />
+<item key="arb" value="العربية" />
+<item key="kor" value="كوري" />
+<item key="ita" value="الإيطالي" />
+<item key="nor" value="النرويجية" />
+<item key="heb" value="العبرية" />
+<item key="sve" value="السويدية" />
+<item key="den" value="دانماركي" />
+<item key="hun" value="المجري" />
+<item key="tur" value="التركية" />
+<item key="gre" value="يوناني" />
+<item key="Bookmarks" value="اﺍلعلاماتﺕ" />
+<item key="RemoveAll" value="إﺇزﺯاﺍلة اﺍلجمﯾﻳع" />
+<item key="AddLeftBookmark" value="إﺇضافة علامة على اﺍلجﮭﻬة اﺍلﯾﻳسرﺭىﻯ" />
+<item key="AddRightBookmark" value="إﺇضافة علامة على اﺍلجﮭﻬة اﺍلﯾﻳمنى" />
+<item key="Page" value="صفحة" />
+<item key="Restore" value="اﺍستعادﺩةﺓ" />
+<item key="Minimize" value="تقلﯾﻳلﻝ" />
+<item key="Delete" value="حذﺫفﻑ" />
+<item key="DeleteNoteConfirm" value="?حذﺫفﻑ ھﮪﮬﻫذﺫهﻩ اﺍلمذﺫكرﺭةﺓ" />
+<item key="Yes" value="نعمﻡ" />
+<item key="No" value="لا" />
+<item key="PageRange" value="نطﻁاقﻕ اﺍلصفحة" />
+<item key="MatchCase" value="حالة اﺍلتناسبﺏ" />
+<item key="SearchResults" value="نتائج اﺍلبحثﺙ" />
+<item key="ErrorEmailAddress" value="عنوﻭاﺍنﻥ اﺍلبرﺭﯾﻳدﺩ اﺍلالكترﺭوﻭني غﯾﻳرﺭ صحﯾﻳح" />
+<item key="AutoMoveAfterZoom" value="تحرﺭكﻙ تلقائي بعدﺩ اﺍلتكبﯾﻳرﺭ" />
+<item key="EmptyInput" value="اﺍلإدﺩخالﻝ فارﺭغﻍ" />
+<item key="EmailSendSuccessful" value="تمﻡ اﺍرﺭسالﻝ اﺍلبرﺭﯾﻳدﺩ بنجاحﺡ" />
+<item key="ClickToFlip" value="اﺍنقرﺭ للتقلﯾﻳبﺏ" />
+<item key="ClickOrDragToZoom" value="اﺍنقرﺭأﺃوﻭاﺍسحبﺏ للتكبﯾﻳرﺭ" />
+<item key="Add" value="أﺃضفﻑ" />
+<item key="RemoveAll" value="إﺇزﺯاﺍلة اﺍلجمﯾﻳع" />
+<item key="CompanyAddress" value="عنوﻭاﺍنﻥ" />
+<item key="CompanyEmail" value="اﺍلبرﺭﯾﻳدﺩ اﺍلإلكترﺭوﻭني" />
+<item key="CompanyTel" value="اﺍلﮭﻬاتفﻑ" />
+<item key="SelectPagesFromThumbnails" value="حدﺩدﺩ اﺍلصفحاتﺕ منﻥ اﺍلصوﻭرﺭ اﺍلمصغرﺭةﺓ" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value=" اﺍلرﺭجاء اﺍختﯾﻳارﺭ ما لا ﯾﻳزﺯﯾﻳدﺩ عنﻥ 15 صفحة في وﻭقتﺕ
+ وﻭحاﺍ دﺩ" />
+<item key="PagesBeingPrepared" value="...ﯾﻳجرﺭيﻱ إﺇعدﺩاﺍدﺩ صفحاتﺕ للطﻁباعة. وﻭھﮪﮬﻫذﺫاﺍ قدﺩ ﯾﻳستغرﺭقﻕ بضع دﺩقائقﻕ. ﯾﻳرﺭجى اﺍلانتظﻅارﺭ" />
+<item key="Cancel" value="إﺇلغاء" />
+<item key="ClickAddNote" value="اﺍنقرﺭ على اﺍلصفحة لإضافة ملاحظﻅتكﻙ" />
+<item key="Edit" value="تحرﺭﯾﻳرﺭ" />
+<item key="Clear" value="وﻭاﺍضح" />
+<item key="DownloadEntirePdfFile" value="pdf تنزﺯﯾﻳلﻝ ملفﻑ كاملﻝ" />
+<item key="BestViewInFullScreenMode" value="ھﮪﮬﻫذﺫاﺍ اﺍلكتابﺏ أﺃفضلﻝ لمشاھﮪﮬﻫدﺩتﮫﻪ في وﻭضع ملﻝء اﺍلشاشة" />
+<item key="EnterFullScreen" value="؟أﺃخترﺭ كاملﻝ اﺍلشاشة" />
+<item key="EscToExit" value=" اﺍضغطﻁ على مفتاحﺡ ESC .للخرﺭوﻭجﺝ منﻥ وﻭضع ملﻝء اﺍلشاشة" />
+<item key="NeedPassword" value="اﺍلرﺭجاء إﺇدﺩخالﻝ كلمة اﺍلمرﺭوﻭرﺭ أﺃدﺩناهﻩ" />
+<item key="PasswordError" value="كلمة اﺍلمرﺭوﻭرﺭ غﯾﻳرﺭ صالحة" />
+<item key="Submit" value="أﺃرﺭسلﻝ" />
+<item key="Reset" value="إﺇعادﺩةﺓ اﺍلكتابة" />
+<item key="ShareEmailContent" value=" likes the following online publication and would like to share it with you. To read the online publication, click here: " />
+<item key="ShareEmailTitle" value=" wants to share an online publication with you" />
+<item key="YourFriend" value="Your friend " />
+</lang>

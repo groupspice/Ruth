@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<script type="text/javascript">
+
+		var browserName = navigator.userAgent.toLowerCase();
+		mybrowser = {
+			version: (browserName.match(/.+(?:rv|it|ra|ie)[\/: ]([\d.]+)/) || [0, '0'])[1],
+			safari: /webkit/i.test(browserName) && !this.chrome,
+			opera: /opera/i.test(browserName),
+		    firefox:/firefox/i.test(browserName),
+			ie: /msie/i.test(browserName) && !/opera/.test(browserName),
+			mozilla: /mozilla/i.test(browserName) && !/(compatible|webkit)/.test(browserName) && !this.chrome,
+		        chrome: /chrome/i.test(browserName) && /webkit/i.test(browserName) && /mozilla/i.test(browserName)
+		};
+
+		function userBrowser(){
+			var Request = new Object();
+			Request = GetRequest();
+			
+			
+			var _page = Request['page'];
+			
+			
+		
+		    var browserName=navigator.userAgent.toLowerCase();
+		  
+		    if(browserName.indexOf('ios') != -1 || 
+		    	browserName.indexOf('ipad') != -1 ||
+		    	browserName.indexOf('iphone') != -1 ||
+		    	browserName.indexOf('android') != -1)
+		    {
+		    	load_mobile(_page);
+		    	return;
+		    }
+			 
+			
+		    if(/msie/i.test(browserName) && !/opera/.test(browserName) ){
+		        load_ie(_page);
+		        return ;
+		    }
+			else if(/Trident/i.test(browserName)){
+		        load_ie(_page);
+		        return ;
+		    }else if(/firefox/i.test(browserName)){
+		        load_moz(_page);
+		        return ;
+		    }else if(/chrome/i.test(browserName) && /webkit/i.test(browserName) && /mozilla/i.test(browserName)){
+		        load_webkit(_page);
+		        return ;
+		    }else if(/opera/i.test(browserName)){
+		        load_moz(_page);
+		        return ;
+		    }else if(/webkit/i.test(browserName) &&!(/chrome/i.test(browserName) && /webkit/i.test(browserName) && /mozilla/i.test(browserName))){
+		       load_webkit(_page);
+		        return ;
+		    }else{
+		       //alert("unKnow");
+		    }
+		};
+
+		function load_webkit(_page){
+			if(_page) {
+				window.location.href="html5forpc.html?page="+_page;
+			}
+			else {
+				window.location.href="html5forpc.html";
+			}
+		};
+
+		function load_moz(_page){
+			//alert("mozilla");
+			if(_page) {
+				window.location.href="html5forpc.html?page="+_page;
+			}
+			else {
+				window.location.href="html5forpc.html";
+			}
+		}
+
+		function load_mobile(_page){
+			
+			if(_page) {
+				window.location.href="html5forwebkit.html?page="+_page;
+			}
+			else {
+				window.location.href="html5forwebkit.html";
+			}
+		};
+
+		function load_ie(_page){
+			//location("html5forms.html");
+			if(_page) {
+				window.location.href="html5forms.html?page="+_page;
+			}
+			else {
+				window.location.href="html5forms.html";
+			}
+		};
+
+		var init = function(){
+			userBrowser();
+		};
+		
+		function GetRequest() {
+		   var url = location.search; //获取url中"?"符后的字串
+		   var theRequest = new Object();
+		   if (url.indexOf("?") != -1) {
+			  var str = url.substr(1);
+			  strs = str.split("&");
+			  for(var i = 0; i < strs.length; i ++) {
+				 theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]);
+			  }
+		   }
+		   return theRequest;
+		}
+
+	</script>
+	</head>
+<body onload="init();" >
+</body>
+</html>

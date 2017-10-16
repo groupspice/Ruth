@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+    <background enable="true"></background>
+    <flipping enable="false"></flipping>
+    <click enable="true" url="content/audios/click.mp3"></click>
+    <pages></pages>
+</sounds>

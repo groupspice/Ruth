@@ -1,0 +1,48 @@
+﻿<bookinfo id="test_02" 
+	 autoFlipSeconds="5"
+	 autoMoveAfterZoom="false"
+	 bgColor="#454545"
+	 bgImage=""
+	 shadow="false" 
+	 pageWidth="428" 
+	 pageHeight="614"
+	 flipSpeedBoost="80"
+	 title="Book Title"
+	 author="Book Authors"
+	 zipIcon="content/images/iconZip.gif"
+	 exeIcon="content/images/iconExe.gif"	 
+	 companyUrl="http://www.flipmall.net"
+	 gateway="http://www.flipmall.net/sendmail/email.php"
+         shareUrl="index.html"
+         bookmarkWidth="18"
+         bookmarkHeight="150"
+         bookmarkFontSize="10"
+         defaultZoomScale="2"
+	 >
+	<leftmenu>
+		<issues visible="true" />
+		<toc visible="true" />
+		<thumbs visible="true" />
+		<email visible="true" />
+		<sns visible="true" />
+		<print visible="true" />
+		<pdf visible="true" />
+		<download visible="true" />
+		<setting visible="true" />
+		<about visible="true" />
+	</leftmenu>
+	<bottommenu background="content/images/menuBackground.png">
+		<help visible="true" url="http://www.flipcreator.net/readerhelp/index.html" />
+		<info visible="true" url="info.html" />
+		<zoom visible="true" />
+		<autoflip visible="true" />
+		<search visible="true" />
+		<highlight visible="true" />
+		<bookmark visible="true" />
+		<notes visible="true" />
+		<fullscreen visible="true" />
+	</bottommenu>
+	<contextmenu>
+		<menu title="About FlipCreator" url="http://www.flipcreator.net" />
+	</contextmenu>
+</bookinfo>

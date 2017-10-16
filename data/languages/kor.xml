@@ -1,0 +1,116 @@
+﻿<lang>
+<item key="Help" value="도움말 팁" />
+<item key="MoreInfo" value="추가 정보" />
+<item key="FlipToFront" value="앞표지로 넘김" />
+<item key="FlipLeft" value="좌로 넘김" />
+<item key="GotoPage" value="페이지 이동" />
+<item key="FlipRight" value="우로 넘김" />
+<item key="FlipToBack" value="뒷표지로 넘김" />
+<item key="ZoomIn" value="확대" />
+<item key="ZoomOut" value="축소" />
+<item key="AutoFlip" value="자동 넘김" />
+<item key="Search" value="검색" />
+<item key="Bookmark" value="책갈피" />
+<item key="Notes" value="노트" />
+<item key="HighlightOn" value="하이라이트 끄기" />
+<item key="HighlightOff" value="하이라이트 켜기" />
+<item key="ExitFullScreen" value="전체화면 종료" />
+<item key="FullScreen" value="전체화면" />
+<item key="PreviousIssues" value="이전 호" />
+<item key="ExpandCollapseAll" value="모두 접기/펴기" />
+<item key="TableOfContents" value="내용 표" />
+<item key="ThumbnailView" value="축소 보기" />
+<item key="ShareThisFlipBook" value="이 책 공유" />
+<item key="ShareOnSocialNetwork" value="SNS에 공유" />
+<item key="PrintLeftPage" value="왼쪽 페이지 인쇄" />
+<item key="PrintRightPage" value="오른쪽 페이지 인쇄" />
+<item key="PrintBothPages" value="양쪽 페이지 인쇄" />
+<item key="PrintSelectedPages" value="선택된 페이지 인쇄" />
+<item key="Print" value="인쇄" />
+<item key="SaveAsPDF" value="PDF로 저장" />
+<item key="SaveLeftPage" value="왼쪽 페이지 저장" />
+<item key="SaveRightPage" value="오른쪽 페이지 저장" />
+<item key="Save" value="저장" />
+<item key="Download" value="다운로드" />
+<item key="DownloadZip" value="ZIP 파일로 오프라인 버전 다운로드" />
+<item key="DownloadExe" value="EXE 파일로 오프라인 버전 다운로드" />
+<item key="EnableAudio" value="오디오 사용" />
+<item key="EnableFlippingSound" value="책 넘김 효과음 사용" />
+<item key="SelectLanguage" value="언어 선택" />
+<item key="Close" value="닫기" />
+<item key="AboutUs" value="제작자 정보" />
+<item key="BookTitle" value="책 제목" />
+<item key="BookAuthor" value="책 저자" />
+<item key="CompanyName" value="회사 이름" />
+<item key="CompanyUrl" value="회사 Url" />
+<item key="Settings" value="설정" />
+<item key="YourName" value="사용자 이름" />
+<item key="YourEmail" value="사용자 Email" />
+<item key="Message" value="메세지" />
+<item key="To" value="받는사람" />
+<item key="Send" value="보내기" />
+<item key="OK" value="확인" />
+<item key="chs" value="중국어 간체" />
+<item key="cht" value="중국어 번체" />
+<item key="eng" value="영어" />
+<item key="fra" value="프랑스어" />
+<item key="ptg" value="포르투갈어" />
+<item key="deu" value="독일어" />
+<item key="jpn" value="일어" />
+<item key="esn" value="스페인어" />
+<item key="nld" value="네덜란드어" />
+<item key="rus" value="러시아어" />
+<item key="arb" value="아랍어" />
+<item key="kor" value="한국의" />
+<item key="ita" value="이탈리아의" />
+<item key="nor" value="노르웨이의" />
+<item key="heb" value="히브리어" />
+<item key="sve" value="스웨덴어" />
+<item key="den" value="덴마크의" />
+<item key="hun" value="헝가리의" />
+<item key="tur" value="터키의" />
+<item key="gre" value="그리스의" />
+<item key="Bookmarks" value="책갈피" />
+<item key="RemoveAll" value="모두 제거" />
+<item key="AddLeftBookmark" value="왼쪽에 책갈피 추가" />
+<item key="AddRightBookmark" value="오른쪽에 책갈피 추가" />
+<item key="Page" value="페이지" />
+<item key="Restore" value="복구" />
+<item key="Minimize" value="최소화" />
+<item key="Delete" value="삭제" />
+<item key="DeleteNoteConfirm" value="이 노트를 삭제할까요?" />
+<item key="Yes" value="예" />
+<item key="No" value="아니오" />
+<item key="PageRange" value="페이지 범위" />
+<item key="MatchCase" value="대소문자 구분" />
+<item key="SearchResults" value="검색 겨로가" />
+<item key="ErrorEmailAddress" value="잘못된 Email 주소" />
+<item key="AutoMoveAfterZoom" value="확대 후 자동 이동" />
+<item key="EmptyInput" value="비 페이지 입력" />
+<item key="EmailSendSuccessful" value="Email 전송 완료" />
+<item key="ClickToFlip" value="넘기려면 클릭" />
+<item key="ClickOrDragToZoom" value="확대하려면 클릭하거나 드레그" />
+<item key="Add" value="추가" />
+<item key="RemoveAll" value="모두 제거" />
+<item key="CompanyAddress" value="주소" />
+<item key="CompanyEmail" value="Email" />
+<item key="CompanyTel" value="Tel" />
+<item key="SelectPagesFromThumbnails" value="축소 이미지에서 페이지 선택" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="한번에 15페이지 이상은 선택하지 마세요." />
+<item key="PagesBeingPrepared" value="페이지 인쇄 준비중입니다. 이 작업은 수 분의 시간이 소요됩니다. 기다리세요 ..." />
+<item key="Cancel" value="취소" />
+<item key="ClickAddNote" value="노트를 추가하려면 페이지 클릭" />
+<item key="Edit" value="편집" />
+<item key="Clear" value="정리" />
+<item key="DownloadEntirePdfFile" value="전체 PDF 파일 다운로드" />
+<item key="BestViewInFullScreenMode" value="이 책은 전체화면에서 최적화되게 볼 수 있습니다." />
+<item key="EnterFullScreen" value="전체화면으로 보시겠습니까?" />
+<item key="EscToExit" value="전체화면에서 나가려면 ESC키를 누르세요." />
+<item key="NeedPassword" value="아래에 비밀번호를 입력하세요." />
+<item key="PasswordError" value="잘못된 비밀번호." />
+<item key="Submit" value="확인" />
+<item key="Reset" value="초기화" />
+<item key="ShareEmailContent" value=" 다음의 온라인 출판물을 당신과 공유하길 원합니다. 온라인 출판물을 읽으려면, 여기를 클릭하세요: " />
+<item key="ShareEmailTitle" value=" 여러분과 온라인물의 공유를 원합니다" />
+<item key="YourFriend" value="여러분의 친구들은 " />
+</lang>

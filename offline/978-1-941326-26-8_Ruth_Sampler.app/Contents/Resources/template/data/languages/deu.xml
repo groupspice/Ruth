@@ -1,0 +1,140 @@
+﻿<lang>
+<item key="Help" value="Hilfe" />
+<item key="MoreInfo" value="Informationen" />
+<item key="FlipToFront" value="Zur Titelseite blättern" />
+<item key="FlipLeft" value="Zurückblättern" />
+<item key="GotoPage" value="Gehe zu Seite" />
+<item key="FlipRight" value="Weiterblättern" />
+<item key="FlipToBack" value="Zur Rückseite blättern" />
+<item key="ZoomIn" value="Vergrößern" />
+<item key="ZoomOut" value="Verkleinern" />
+<item key="AutoFlip" value="Automatisches Blättern an" />
+<item key="Search" value="Durchsuchen" />
+<item key="Bookmark" value="Lesezeichen" />
+<item key="Notes" value="Notiz" />
+<item key="HighlightOn" value="Markieren aus" />
+<item key="HighlightOff" value="Markieren an" />
+<item key="ExitFullScreen" value="Vollbild verlassen" />
+<item key="FullScreen" value="Vollbild" />
+<item key="PreviousIssues" value="frühere Ausgaben" />
+<item key="ExpandCollapseAll" value="Alle anzeigen / verbergen" />
+<item key="TableOfContents" value="Inhaltsverzeichnis" />
+<item key="ThumbnailView" value="Miniaturübersicht" />
+<item key="ShareThisFlipBook" value="Dieses E-Magazin an jemanden weitersenden" />
+<item key="ShareOnSocialNetwork" value="Ausgabe an soziale Netzwerke" />
+<item key="PrintLeftPage" value="Linke Seite" />
+<item key="PrintRightPage" value="Rechte Seite" />
+<item key="PrintBothPages" value="Beide Seiten" />
+<item key="PrintSelectedPages" value="Ausgewählte Seiten" />
+<item key="Print" value="Drucken" />
+<item key="SaveAsPDF" value="Als PDF speichern" />
+<item key="SaveLeftPage" value="Linke Seite speichern" />
+<item key="SaveRightPage" value="Rechte Seite speichern" />
+<item key="Save" value="Speichern" />
+<item key="Download" value="Offline-Version herunterladen" />
+<item key="DownloadZip" value="Dieses FlipBook im ZIP Format speichern" />
+<item key="DownloadExe" value="Dieses FlipBook im EXE Format speichern" />
+<item key="EnableAudio" value="Sound aktivieren" />
+<item key="EnableFlippingSound" value="Blättergeräusch aktivieren" />
+<item key="SelectLanguage" value="Sprache wählen" />
+<item key="Close" value="Schließen" />
+<item key="AboutUs" value="Über uns" />
+<item key="BookTitle" value="Titel" />
+<item key="BookAuthor" value="Herausgeber" />
+<item key="CompanyName" value="Firmenname" />
+<item key="CompanyUrl" value="Website" />
+<item key="Settings" value="Einstellungen" />
+<item key="YourName" value="Ihr Name" />
+<item key="YourEmail" value="Ihre E-Mail" />
+<item key="Message" value="Nachricht" />
+<item key="To" value="An (E-Mail)" />
+<item key="Send" value="Absenden" />
+<item key="OK" value="OK" />
+<item key="chs" value="Chinesisch (Kurzzeichen)" />
+<item key="cht" value="Chinesisch (Langzeichen)" />
+<item key="eng" value="Englisch" />
+<item key="fra" value="Französisch" />
+<item key="ptg" value="Portugiesisch" />
+<item key="deu" value="Deutsch" />
+<item key="jpn" value="Japanisch" />
+<item key="esn" value="Spanisch" />
+<item key="nld" value="Holländisch" />
+<item key="rus" value="Russisch" />
+<item key="arb" value="Arabisch" />
+<item key="kor" value="Koreanisch" />
+<item key="ita" value="Italienisch" />
+<item key="nor" value="Norwegisch" />
+<item key="heb" value="Hebräisch" />
+<item key="sve" value="Schwedisch" />
+<item key="den" value="Dänisch" />
+<item key="hun" value="Ungarisch" />
+<item key="tur" value="Türkisch" />
+<item key="gre" value="Griechisch" />
+<item key="Bookmarks" value="Lesezeichen" />
+<item key="RemoveAll" value="Alle entfernen" />
+<item key="AddLeftBookmark" value="Linke Seite" />
+<item key="AddRightBookmark" value="Rechte Seite" />
+<item key="Page" value="Seite" />
+<item key="Restore" value="Wiederherstellen" />
+<item key="Minimize" value="Minimieren" />
+<item key="Delete" value="Entfernen" />
+<item key="DeleteNoteConfirm" value="Diese Notiz entfernen?" />
+<item key="Yes" value="Ja" />
+<item key="No" value="Nein" />
+<item key="PageRange" value="Seiten" />
+<item key="MatchCase" value="Groß-/Kleinschreibung" />
+<item key="SearchResults" value="Suchergebnisse" />
+<item key="ErrorEmailAddress" value="Ungültige E-Mail Adresse" />
+<item key="AutoMoveAfterZoom" value="Auto Zoom" />
+<item key="EmptyInput" value="Nachricht ist erforderlich" />
+<item key="EmailSendSuccessful" value="E-Mail wurde verschickt" />
+<item key="ClickToFlip" value="Umblättern" />
+<item key="ClickOrDragToZoom" value="Klicken oder Ziehen zum Vergrößern" />
+<item key="Add" value="Hinzufügen" />
+<item key="RemoveAll" value="Alle entfernen" />
+<item key="CompanyAddress" value="Adresse" />
+<item key="CompanyEmail" value="E-Mail" />
+<item key="CompanyTel" value="Telefon" />
+<item key="SelectPagesFromThumbnails" value="Seitenauswahl aus Miniaturübersicht" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Bitte wählen Sie nicht mehr als 15 Seiten auf einmal." />
+<item key="PagesBeingPrepared" value="Seiten werden für den Druck vorbereitet. Dies kann einige Minuten dauern. Bitte warten ..." />
+<item key="Cancel" value="stornieren" />
+<item key="ClickAddNote" value="Klicken Sie an die Stelle, an der Sie die Notiz anbringen möchten" />
+<item key="Edit" value="Bearbeiten" />
+<item key="Clear" value="Löschen" />
+<item key="DownloadEntirePdfFile" value="Herunterladen gesamte PDF-Datei" />
+<item key="BestViewInFullScreenMode" value="Dieses Buch ist am besten in Vollbild-Modus angezeigt." />
+<item key="EnterFullScreen" value="Eingeben im Vollbildmodus?" />
+<item key="EscToExit" value="Drücken Sie die ESC-Taste zum Verlassen des Vollbildmodus." />
+<item key="NeedPassword" value="Bitte geben Sie Ihr Passwort ein." />
+<item key="PasswordError" value="Ungültiges Passwort." />
+<item key="Submit" value="einreichen" />
+<item key="Reset" value="Zurücksetzen" />
+<item key="ShareEmailContent" value=" würde Ihnen gerne die folgende Online-Publikation des Österreichischen Apotheker-Verlages zeigen. Zum Lesen klicken Sie bitte hier: " />
+<item key="ShareEmailTitle" value=" möchte Ihnen gerne eine Online-Publikation zeigen" />
+<item key="YourFriend" value=" " />
+<item key="PrintCurrentPage" value="Aktuelle Seite drucken" />
+<item key="Back" value="zurück" />
+<item key="Forward" value="nach vorn" />
+<item key="FullText" value="Full Text" />
+<item key="SearchPreviousIssues" value="Vorherige Ausgaben durchsuchen" />
+<item key="SaveBothPages" value="Beide Seiten speichern" />
+<item key="LicenseIsTrial" value="This publication was presented in a trial version with a time limitation of 2 minutes. Open the publication again to review it." />
+<item key="NoPage" value="Please input pages region" />
+<item key="GeneratedPdf" value="Generating PDF, please wait..." />
+<item key="PdfCreated" value="PDF is generated." />
+<item key="AutoMove" value="Auto Zoom" />
+<item key="ForbiddenAutoMove" value="Forbidden auto move" />
+<item key="Fit100" value="100%" />
+<item key="FitWindowWidth" value="An Bildschirmbreite anpassen" />
+<item key="DisableAudio" value="Disable Audio" />
+<item key="Pages" value="Ausgewählte Seiten speichern" />
+<item key="Zoom" value="Zoom" />
+<item key="Audio" value="Audio" />
+<item key="Highlight" value="Highlight" />
+<item key="SingleClickToZoom" value="Single click to zoom" />
+<item key="DoubleClickToZoom" value="Double click to zoom" />
+<item key="MouseWheelZoom" value="Scroll the wheel to zoom in or out" />
+<item key="MouseWheelMove" value="Scroll the wheel to move" />
+<item key="MouseWheelFlip" value="Scroll the wheel to flip page" />
+</lang>

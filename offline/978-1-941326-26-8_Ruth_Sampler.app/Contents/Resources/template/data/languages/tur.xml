@@ -1,0 +1,122 @@
+﻿<lang>
+<item key="Help" value="Yardim" />
+<item key="MoreInfo" value="Daha Fazla Bilgi" />
+<item key="FlipToFront" value="Ön Kapak" />
+<item key="FlipLeft" value="Onceki Sayfa" />
+<item key="GotoPage" value="Sayfaya Git" />
+<item key="FlipRight" value="Sonraki Sayfa" />
+<item key="FlipToBack" value="Arka Kapak" />
+<item key="ZoomIn" value="Yaklastir" />
+<item key="ZoomOut" value="Uzaklastir" />
+<item key="AutoFlip" value="Otomatik Sayfa Cevir" />
+<item key="Search" value="Ara" />
+<item key="Bookmark" value="Sayfayı İşaretle" />
+<item key="Notes" value="Notlar" />
+<item key="HighlightOn" value="İşaretleyici Acik" />
+<item key="HighlightOff" value="İşaretleyici Kapali" />
+<item key="ExitFullScreen" value="Tam Ekrandan Cik" />
+<item key="FullScreen" value="Tam Ekran" />
+<item key="PreviousIssues" value="Önceki Sayilar" />
+<item key="ExpandCollapseAll" value="Hepsini GenişletDaralt" />
+<item key="TableOfContents" value="İcindekiler" />
+<item key="ThumbnailView" value="Kücük Resimler" />
+<item key="ShareThisFlipBook" value="Bu Katalogu Paylas" />
+<item key="ShareOnSocialNetwork" value="Sosyal Agda Paylas" />
+<item key="PrintLeftPage" value="Sol Sayfayi Bas" />
+<item key="PrintRightPage" value="Sag Sayfayi Bas" />
+<item key="PrintBothPages" value="Iki Sayfayi Bas" />
+<item key="PrintSelectedPages" value="Seçilen Sayfalari Bas" />
+<item key="Print" value="Cikti Al" />
+<item key="SaveAsPDF" value="PDF Olarak Kaydet" />
+<item key="SaveLeftPage" value="Sol Sayfayi Kaydet" />
+<item key="SaveRightPage" value="Sag Sayfayi Kaydet" />
+<item key="Save" value="Kaydet" />
+<item key="Download" value="Indir" />
+<item key="DownloadZip" value="ZIP Formatında İndir" />
+<item key="DownloadExe" value="EXE Formatında İdir" />
+<item key="EnableAudio" value="Ses" />
+<item key="EnableFlippingSound" value="Cevirme Sesi" />
+<item key="SelectLanguage" value="Dil Seçimi" />
+<item key="Close" value="Kapat" />
+<item key="AboutUs" value="Hakkımızda" />
+<item key="BookTitle" value="Baslik" />
+<item key="BookAuthor" value="Yazar" />
+<item key="CompanyName" value="Sirket Ismi" />
+<item key="CompanyUrl" value="Sirket Url" />
+<item key="Settings" value="Ayarlar" />
+<item key="YourName" value="Isminiz" />
+<item key="YourEmail" value="E-Postaniz" />
+<item key="Message" value="Mesaj" />
+<item key="To" value="Kime" />
+<item key="Send" value="Yolla" />
+<item key="OK" value="Tamam" />
+<item key="chs" value="Sadelestirilmis Cince" />
+<item key="cht" value="Geleneksel Cince" />
+<item key="eng" value="Ingilizce" />
+<item key="fra" value="Fransizca" />
+<item key="ptg" value="Portekizce" />
+<item key="deu" value="Almanca" />
+<item key="jpn" value="Japonca" />
+<item key="esn" value="Ispanyolca" />
+<item key="nld" value="Flamanca" />
+<item key="rus" value="Rusca" />
+<item key="arb" value="Arapca" />
+<item key="kor" value="Korece" />
+<item key="ita" value="Italyanca" />
+<item key="nor" value="Norvecce" />
+<item key="heb" value="Ibranice" />
+<item key="sve" value="Isvecce" />
+<item key="den" value="Danimarkaca" />
+<item key="hun" value="Macarca" />
+<item key="tur" value="Türkce" />
+<item key="gre" value="Yunan" />
+<item key="Bookmarks" value="Isaretlenmis Sayfalar" />
+<item key="RemoveAll" value="Hepsini Kaldir" />
+<item key="AddLeftBookmark" value="Sol Sayfayi Isaretle" />
+<item key="AddRightBookmark" value="Sag Sayfayi Isaretle" />
+<item key="Page" value="Sayfa" />
+<item key="Restore" value="Geri Yukle" />
+<item key="Minimize" value="Kücült" />
+<item key="Delete" value="Sil" />
+<item key="DeleteNoteConfirm" value="Not Silinsin Mi?" />
+<item key="Yes" value="Evet" />
+<item key="No" value="Hayır" />
+<item key="PageRange" value="Sayfa Araligi" />
+<item key="MatchCase" value="BüyükKucuk harf uyumu" />
+<item key="SearchResults" value="Arama Sonuçları" />
+<item key="ErrorEmailAddress" value="Gecersiz E-Posta" />
+<item key="AutoMoveAfterZoom" value="Auto Move After Zoom" />
+<item key="EmptyInput" value="Bos Girdi" />
+<item key="EmailSendSuccessful" value="E-Posta Basariyla Gönderilmistir" />
+<item key="ClickToFlip" value="Cevirmek icin tıklayın" />
+<item key="ClickOrDragToZoom" value="Büyütmek icin tıklayın" />
+<item key="Add" value="Ekle" />
+<item key="RemoveAll" value="Hepsini Sil" />
+<item key="CompanyAddress" value="Adres" />
+<item key="CompanyEmail" value="E-Posta" />
+<item key="CompanyTel" value="Tel" />
+<item key="SelectPagesFromThumbnails" value="Kücük Görüntülerden Sayfa Sec" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Lütfen ayni anda 15 sayfadan fazla secmeyiniz." />
+<item key="PagesBeingPrepared" value="Sayfalar basilmaya hazirlaniyor. Lütfen bekleyiniz ..." />
+<item key="Cancel" value="Iptal" />
+<item key="ClickAddNote" value="Notunuzu eklemek icin sayfaya tiklayin" />
+<item key="Edit" value="Düzelt" />
+<item key="Clear" value="Sil" />
+<item key="DownloadEntirePdfFile" value="Tüm PDF dosyasini indir" />
+<item key="BestViewInFullScreenMode" value="Bu katalog en iyi tüm ekranda görüntülenir." />
+<item key="EnterFullScreen" value="Tüm ekrana gec?" />
+<item key="EscToExit" value="Tüm ekrandan cikmak icin ESC tusuna basiniz" />
+<item key="NeedPassword" value="Lütfen asagiya sifrenizi girin." />
+<item key="PasswordError" value="Gecersiz sifre" />
+<item key="Submit" value="Gönder" />
+<item key="Reset" value="Reset" />
+<item key="ShareEmailContent" value=" asagidaki online katalogu sevdi ve sizinle paylasmak istiyor. Okumak için buraya tiklayin: " />
+<item key="ShareEmailTitle" value="  sizinle online bir yayın paylaşmak isiyor" />
+<item key="YourFriend" value="Arkadasiniz " />
+<item key="PrintCurrentPage" value="Bulundugum Sayfayi Bas" />
+<item key="Back" value="Geri" />
+<item key="Forward" value="Ileri" />
+<item key="FullText" value="Tamamen Yazi" />
+<item key="SearchPreviousIssues" value="Önceki Sayilarda Ara" />
+<item key="SaveBothPages" value="Iki Sayfayi Kaydet" />
+</lang>

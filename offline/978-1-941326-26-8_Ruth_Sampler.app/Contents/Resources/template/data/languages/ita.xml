@@ -1,0 +1,115 @@
+﻿<lang>
+<item key="Help" value="Aiuto / Consigli" />
+<item key="MoreInfo" value="Ulteriori informazioni" />
+<item key="FlipToFront" value="Vai alla prima pagina" />
+<item key="FlipLeft" value="Sfoglia a sinistra" />
+<item key="GotoPage" value="Vai a pagina" />
+<item key="FlipRight" value="Sfoglia a destra" />
+<item key="FlipToBack" value="Vai alla pagina finale" />
+<item key="ZoomIn" value="Ingrandisci" />
+<item key="ZoomOut" value="Rimpicciolisci" />
+<item key="AutoFlip" value="Sfoglia automaticamente" />
+<item key="Search" value="Cerca" />
+<item key="Bookmark" value="Segnalibri" />
+<item key="Notes" value="Note" />
+<item key="HighlightOn" value="In evidenza - Off" />
+<item key="HighlightOff" value="In evidenza - On" />
+<item key="ExitFullScreen" value="Esci da visione schermo intero" />
+<item key="FullScreen" value="Schermo intero" />
+<item key="PreviousIssues" value="Altre pubblicazioni" />
+<item key="ExpandCollapseAll" value="Espandi/Riduci" />
+<item key="TableOfContents" value="Indice" />
+<item key="ThumbnailView" value="Anteprima" />
+<item key="ShareThisFlipBook" value="Invia questa presentazione" />
+<item key="ShareOnSocialNetwork" value="Condividi sui Social Network" />
+<item key="PrintLeftPage" value="Stampa la pagina sinistra" />
+<item key="PrintRightPage" value="Stampa la pagina destra" />
+<item key="PrintBothPages" value="Stampa entrambe le pagine" />
+<item key="PrintSelectedPages" value="Stampa le pagine selezionate" />
+<item key="Print" value="Stampa" />
+<item key="SaveAsPDF" value="Salva come PDF" />
+<item key="SaveLeftPage" value="Salva la pagina sinistra" />
+<item key="SaveRightPage" value="Salva la pagina destra" />
+<item key="Save" value="Salva" />
+<item key="Download" value="Download" />
+<item key="DownloadZip" value="Download versione Offline in formato ZIP" />
+<item key="DownloadExe" value="Download versione Offline in formato EXE" />
+<item key="EnableAudio" value="Attiva audio" />
+<item key="EnableFlippingSound" value="Attiva audio Flip/Sfoglia pagina" />
+<item key="SelectLanguage" value="Seleziona la lingua" />
+<item key="Close" value="Chiudi" />
+<item key="AboutUs" value="Su di noi" />
+<item key="BookTitle" value="Titolo della presentazione" />
+<item key="BookAuthor" value="Autore della presentazione" />
+<item key="CompanyName" value="Nome dell'azienda" />
+<item key="CompanyUrl" value="Url dell'azienda" />
+<item key="Settings" value="Impostazioni" />
+<item key="YourName" value="Il tuo nome" />
+<item key="YourEmail" value="La tua e-mail" />
+<item key="Message" value="Messaggio" />
+<item key="To" value="Destinatario" />
+<item key="Send" value="Invia" />
+<item key="OK" value="OK" />
+<item key="chs" value="Cinese semplificato" />
+<item key="cht" value="Cinese tradizionale" />
+<item key="eng" value="Inglese" />
+<item key="fra" value="Francese" />
+<item key="ptg" value="Portoghese" />
+<item key="deu" value="Tedesco" />
+<item key="jpn" value="Giapponese" />
+<item key="esn" value="Spagnolo" />
+<item key="nld" value="Olandese" />
+<item key="rus" value="Russo" />
+<item key="arb" value="Arabo" />
+<item key="kor" value="Coreano" />
+<item key="ita" value="Italiano" />
+<item key="nor" value="Norvegese" />
+<item key="heb" value="Ebraico" />
+<item key="sve" value="Svedese" />
+<item key="den" value="Danese" />
+<item key="hun" value="Ungherese" />
+<item key="tur" value="Turco" /><item key="gre" value="Greco" />
+<item key="Bookmarks" value="Segnalibri" />
+<item key="RemoveAll" value="Rimuovi tutti" />
+<item key="AddLeftBookmark" value="Aggiungi segnalibro a sinistra" />
+<item key="AddRightBookmark" value="Aggiungi segnalibro a destra" />
+<item key="Page" value="Pagina" />
+<item key="Restore" value="Ripristina" />
+<item key="Minimize" value="Minimizza" />
+<item key="Delete" value="Cancella" />
+<item key="DeleteNoteConfirm" value="Cancellare questa nota?" />
+<item key="Yes" value="Si" />
+<item key="No" value="No" />
+<item key="PageRange" value="Pagine" />
+<item key="MatchCase" value="Distingui maiuscole/minuscole" />
+<item key="SearchResults" value="Risultati della ricerca" />
+<item key="ErrorEmailAddress" value="Indirizzo email non valido" />
+<item key="AutoMoveAfterZoom" value="Muovi in automatico dopo l'ingrandimento" />
+<item key="EmptyInput" value="Campo vuoto" />
+<item key="EmailSendSuccessful" value="Email inviata con successo" />
+<item key="ClickToFlip" value="Clicca per sfogliare" />
+<item key="ClickOrDragToZoom" value="Clicca o trascina per ingrandire" />
+<item key="Add" value="Aggiungi" />
+<item key="RemoveAll" value="Rimuovi tutti" />
+<item key="CompanyAddress" value="Indirizzo" />
+<item key="CompanyEmail" value="Email" />
+<item key="CompanyTel" value="Tel" />
+<item key="SelectPagesFromThumbnails" value="Seleziona le pagine dalle miniature" />
+<item key="PleaseSelectNoMoreThan15PagesAtATime" value="Prego, non selezionare oltre 15 pagina alla volta." />
+<item key="PagesBeingPrepared" value="Le pagine vengono preparate per la stampa, questa operazione può durare qualche minuto. Attendere ..." />
+<item key="Cancel" value="Cancella" />
+<item key="ClickAddNote" value="Clicca sulla pagina per aggiungere una nota" />
+<item key="Edit" value="Modifica" />
+<item key="Clear" value="Cancella" />
+<item key="DownloadEntirePdfFile" value="Scarica il file PDF completo" />
+<item key="BestViewInFullScreenMode" value="Migliora la visibilità con la modalità schermo intero" />
+<item key="EnterFullScreen" value="Avviare schermo intero?" />
+<item key="EscToExit" value="Premere ESC per uscire dalla modalità schermo intero." />
+<item key="NeedPassword" value="Digita la tua password" />
+<item key="PasswordError" value="Password non valida." />
+<item key="Submit" value="Invia" />
+<item key="Reset" value="Cancella" />
+<item key="ShareEmailContent" value=" apprezza la seguente pubblicazione on-line e vuole condividerla con te. Per visualizzare la presentazione, clicca qui: " />
+<item key="ShareEmailTitle" value=" vuole condividere una pubblicazione con te" />
+<item key="YourFriend" value="Il tuo amico " />
+</lang>
